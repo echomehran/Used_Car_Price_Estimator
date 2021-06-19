@@ -1,0 +1,954 @@
+exterior_color,interior_color,location,make,model,mileage,style,year,engine,accidentCount,ownerCount,isCleanTitle,isFrameDamaged,isLemon,isSalvage,isTheftRecovered,price
+"Night Black",Unknown,"Patchogue, NY",Audi,Q7,91366,"Premium Plus 3.0T quattro",2015,"3.0L V-6 Gas Supercharged",1,1,1,0,0,0,0,16995
+"Orca Black Metallic",Unknown,"Patchogue, NY",Audi,Q7,35681,"S-line 3.0T quattro",2011,"3.0L V-6 Gas Supercharged",0,1,1,0,0,0,0,17995
+"Brilliant Black",Unknown,"Patchogue, NY",Audi,Q5,113073,"Premium Plus 2.0T quattro",2011,"2.0L Inline-4 Gas Turbocharged",0,5,1,0,0,0,0,9995
+"Azores Green Metallic","Nougat Brown","Commack, NY",Audi,Q5,58464,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24495
+Black,Brown,"Medford, NY",Audi,A3,60979,"Premium Sedan 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16990
+"Monsoon Gray Metallic",Black,"Medford, NY",Audi,S4,76315,"Premium Plus Sedan S tronic",2013,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,19590
+"Manhattan Gray Metallic","Rock Gray/Gray","Yonkers, NY",Audi,A4,55312,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18789
+"Ibis White","Chestnut Brown","Valley Stream, NY",Audi,A3,20154,"Premium Sedan 2.0 quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17890
+"Phantom Black Pearl Effect",Black,"Massapequa, NY",Audi,A6,71466,"Premium Plus Sedan 3.0T quattro Automatic",2014,"3.0L V-6 Gas Supercharged",2,2,1,0,0,0,0,14977
+"Dakota Gray Metallic",Black,"Medford, NY",Audi,A6,57170,"Premium Plus Sedan 2.0T FrontTrak",2012,"2.0L Inline-4 Gas Supercharged",0,1,1,0,0,0,0,14990
+"Moonlight Blue Metallic",Black,"Medford, NY",Audi,A8,87613,3.0S,2014,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,20990
+"Moonlight Blue Metallic",Black,"Glen Cove, NY",Audi,A4,27847,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,25000
+"Moonlight Blue Metallic","Nougat Brown","Greatneck, NY",Audi,Q5,30969,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24890
+"Ibis White","Chestnut Brown","Freeport, NY",Audi,Q5,63900,"Premium Plus 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16815
+"Phantom Black Pearl Effect",Black,"Hasbrouck Heights, NJ",Audi,Q5,61677,"Premium Plus 3.2L quattro",2012,"3.2L V-6 Gas",0,3,1,0,0,0,0,14000
+"Meteor Gray Pearl",Black,"Meriden, CT",Audi,A4,122587,"Premium Avant Wagon 2.0T quattro Automatic",2011,"2.0L Inline-4 Gas Turbocharged",0,3,1,0,0,0,0,6995
+"Ibis White","Chestnut Brown","Deer Park, NY",Audi,Q5,56790,"Premium Plus 2.0T quattro",2016,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,20490
+"Manhattan Gray Metallic","Nougat Brown","Freeport, NY",Audi,Q5,62251,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,23990
+"Daytona Gray Pearl Effect",Black,"Newark, NJ",Audi,Q5,96652,"Premium Plus 3.0T quattro",2014,"3.0L V-6 Gas Supercharged",2,3,1,0,0,0,0,12495
+"Moonlight Blue Metallic",Black,"East Hanover, NJ",Audi,Q5,56189,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24899
+"Florett Silver Metallic",Black,"Lynbrook, NY",Audi,A4,63751,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17990
+"Brilliant Black",Black,"Hasbrouck Heights, NJ",Audi,A4,61208,"Sedan 2.0T quattro Manual",2008,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,6999
+"Florett Silver Metallic","Black/Red Contrast Stitch","Great Neck, NY",Audi,A4,33291,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,21360
+"Phantom Black Pearl",Black,"Medford, NY",Audi,A5,33242,"Premium Plus Cabriolet 2.0T quattro Automatic",2012,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,19990
+"Havanna Black Metallic","Velvet Beige","Medford, NY",Audi,A8,64804,"L 3.0 TFSI",2017,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,31990
+"Brilliant Black",Black,"Valley Stream, NY",Audi,A6,54867,"Premium 2.0 TFSI quattro",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17395
+"Ibis White",Black,"Medford, NY",Audi,TT,70742,"Coupe 2.0T quattro S tronic",2015,"2.0L Inline-4 Gas Turbocharged",0,4,1,0,0,0,0,20990
+"Ibis White",Black,"Medford, NY",Audi,"RS 5",66095,Coupe,2013,"4.2L V-8 Gas",0,3,1,0,0,0,0,32990
+"Brilliant Black",Black,"Freeport, NY",Audi,Q3,63003,"Premium Plus quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18990
+"Phantom Black Pearl",Black,"Medford, NY",Audi,S5,49020,"Premium Plus Cabriolet",2013,"3.0L V-6 Gas Supercharged",0,3,1,0,0,0,0,23990
+"Night Black",Unknown,"Patchogue, NY",Audi,Q7,91366,"Premium Plus 3.0T quattro",2015,"3.0L V-6 Gas Supercharged",1,1,1,0,0,0,0,16995
+"Orca Black Metallic",Unknown,"Patchogue, NY",Audi,Q7,35681,"S-line 3.0T quattro",2011,"3.0L V-6 Gas Supercharged",0,1,1,0,0,0,0,17995
+"Brilliant Black",Unknown,"Patchogue, NY",Audi,Q5,113073,"Premium Plus 2.0T quattro",2011,"2.0L Inline-4 Gas Turbocharged",0,5,1,0,0,0,0,9995
+"Azores Green Metallic","Nougat Brown","Commack, NY",Audi,Q5,58464,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24495
+Black,Brown,"Medford, NY",Audi,A3,60979,"Premium Sedan 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16990
+"Monsoon Gray Metallic",Black,"Medford, NY",Audi,S4,76315,"Premium Plus Sedan S tronic",2013,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,19590
+"Manhattan Gray Metallic","Rock Gray/Gray","Yonkers, NY",Audi,A4,55312,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18789
+"Ibis White","Chestnut Brown","Valley Stream, NY",Audi,A3,20154,"Premium Sedan 2.0 quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17890
+"Phantom Black Pearl Effect",Black,"Massapequa, NY",Audi,A6,71466,"Premium Plus Sedan 3.0T quattro Automatic",2014,"3.0L V-6 Gas Supercharged",2,2,1,0,0,0,0,14977
+"Dakota Gray Metallic",Black,"Medford, NY",Audi,A6,57170,"Premium Plus Sedan 2.0T FrontTrak",2012,"2.0L Inline-4 Gas Supercharged",0,1,1,0,0,0,0,14990
+"Moonlight Blue Metallic",Black,"Medford, NY",Audi,A8,87613,3.0S,2014,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,20990
+"Moonlight Blue Metallic",Black,"Glen Cove, NY",Audi,A4,27847,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,25000
+"Moonlight Blue Metallic","Nougat Brown","Greatneck, NY",Audi,Q5,30969,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24890
+"Ibis White","Chestnut Brown","Freeport, NY",Audi,Q5,63900,"Premium Plus 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16815
+"Phantom Black Pearl Effect",Black,"Hasbrouck Heights, NJ",Audi,Q5,61677,"Premium Plus 3.2L quattro",2012,"3.2L V-6 Gas",0,3,1,0,0,0,0,14000
+"Meteor Gray Pearl",Black,"Meriden, CT",Audi,A4,122587,"Premium Avant Wagon 2.0T quattro Automatic",2011,"2.0L Inline-4 Gas Turbocharged",0,3,1,0,0,0,0,6995
+"Ibis White","Chestnut Brown","Deer Park, NY",Audi,Q5,56790,"Premium Plus 2.0T quattro",2016,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,20490
+"Manhattan Gray Metallic","Nougat Brown","Freeport, NY",Audi,Q5,62251,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,23990
+"Daytona Gray Pearl Effect",Black,"Newark, NJ",Audi,Q5,96652,"Premium Plus 3.0T quattro",2014,"3.0L V-6 Gas Supercharged",2,3,1,0,0,0,0,12495
+"Moonlight Blue Metallic",Black,"East Hanover, NJ",Audi,Q5,56189,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24899
+"Florett Silver Metallic",Black,"Lynbrook, NY",Audi,A4,63751,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17990
+"Brilliant Black",Black,"Hasbrouck Heights, NJ",Audi,A4,61208,"Sedan 2.0T quattro Manual",2008,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,6999
+"Florett Silver Metallic","Black/Red Contrast Stitch","Great Neck, NY",Audi,A4,33291,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,21360
+"Phantom Black Pearl",Black,"Medford, NY",Audi,A5,33242,"Premium Plus Cabriolet 2.0T quattro Automatic",2012,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,19990
+"Havanna Black Metallic","Velvet Beige","Medford, NY",Audi,A8,64804,"L 3.0 TFSI",2017,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,31990
+"Brilliant Black",Black,"Valley Stream, NY",Audi,A6,54867,"Premium 2.0 TFSI quattro",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17395
+"Ibis White",Black,"Medford, NY",Audi,TT,70742,"Coupe 2.0T quattro S tronic",2015,"2.0L Inline-4 Gas Turbocharged",0,4,1,0,0,0,0,20990
+"Ibis White",Black,"Medford, NY",Audi,"RS 5",66095,Coupe,2013,"4.2L V-8 Gas",0,3,1,0,0,0,0,32990
+"Brilliant Black",Black,"Freeport, NY",Audi,Q3,63003,"Premium Plus quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18990
+"Phantom Black Pearl",Black,"Medford, NY",Audi,S5,49020,"Premium Plus Cabriolet",2013,"3.0L V-6 Gas Supercharged",0,3,1,0,0,0,0,23990
+"Night Black",Unknown,"Patchogue, NY",Audi,Q7,91366,"Premium Plus 3.0T quattro",2015,"3.0L V-6 Gas Supercharged",1,1,1,0,0,0,0,16995
+"Orca Black Metallic",Unknown,"Patchogue, NY",Audi,Q7,35681,"S-line 3.0T quattro",2011,"3.0L V-6 Gas Supercharged",0,1,1,0,0,0,0,17995
+"Brilliant Black",Unknown,"Patchogue, NY",Audi,Q5,113073,"Premium Plus 2.0T quattro",2011,"2.0L Inline-4 Gas Turbocharged",0,5,1,0,0,0,0,9995
+"Azores Green Metallic","Nougat Brown","Commack, NY",Audi,Q5,58464,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24495
+Black,Brown,"Medford, NY",Audi,A3,60979,"Premium Sedan 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16990
+"Monsoon Gray Metallic",Black,"Medford, NY",Audi,S4,76315,"Premium Plus Sedan S tronic",2013,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,19590
+"Manhattan Gray Metallic","Rock Gray/Gray","Yonkers, NY",Audi,A4,55312,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18789
+"Ibis White","Chestnut Brown","Valley Stream, NY",Audi,A3,20154,"Premium Sedan 2.0 quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17890
+"Phantom Black Pearl Effect",Black,"Massapequa, NY",Audi,A6,71466,"Premium Plus Sedan 3.0T quattro Automatic",2014,"3.0L V-6 Gas Supercharged",2,2,1,0,0,0,0,14977
+"Dakota Gray Metallic",Black,"Medford, NY",Audi,A6,57170,"Premium Plus Sedan 2.0T FrontTrak",2012,"2.0L Inline-4 Gas Supercharged",0,1,1,0,0,0,0,14990
+"Moonlight Blue Metallic",Black,"Medford, NY",Audi,A8,87613,3.0S,2014,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,20990
+"Moonlight Blue Metallic",Black,"Glen Cove, NY",Audi,A4,27847,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,25000
+"Moonlight Blue Metallic","Nougat Brown","Greatneck, NY",Audi,Q5,30969,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24890
+"Ibis White","Chestnut Brown","Freeport, NY",Audi,Q5,63900,"Premium Plus 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16815
+"Phantom Black Pearl Effect",Black,"Hasbrouck Heights, NJ",Audi,Q5,61677,"Premium Plus 3.2L quattro",2012,"3.2L V-6 Gas",0,3,1,0,0,0,0,14000
+"Meteor Gray Pearl",Black,"Meriden, CT",Audi,A4,122587,"Premium Avant Wagon 2.0T quattro Automatic",2011,"2.0L Inline-4 Gas Turbocharged",0,3,1,0,0,0,0,6995
+"Ibis White","Chestnut Brown","Deer Park, NY",Audi,Q5,56790,"Premium Plus 2.0T quattro",2016,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,20490
+"Manhattan Gray Metallic","Nougat Brown","Freeport, NY",Audi,Q5,62251,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,23990
+"Daytona Gray Pearl Effect",Black,"Newark, NJ",Audi,Q5,96652,"Premium Plus 3.0T quattro",2014,"3.0L V-6 Gas Supercharged",2,3,1,0,0,0,0,12495
+"Moonlight Blue Metallic",Black,"East Hanover, NJ",Audi,Q5,56189,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24899
+"Florett Silver Metallic",Black,"Lynbrook, NY",Audi,A4,63751,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17990
+"Brilliant Black",Black,"Hasbrouck Heights, NJ",Audi,A4,61208,"Sedan 2.0T quattro Manual",2008,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,6999
+"Florett Silver Metallic","Black/Red Contrast Stitch","Great Neck, NY",Audi,A4,33291,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,21360
+"Phantom Black Pearl",Black,"Medford, NY",Audi,A5,33242,"Premium Plus Cabriolet 2.0T quattro Automatic",2012,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,19990
+"Havanna Black Metallic","Velvet Beige","Medford, NY",Audi,A8,64804,"L 3.0 TFSI",2017,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,31990
+"Brilliant Black",Black,"Valley Stream, NY",Audi,A6,54867,"Premium 2.0 TFSI quattro",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17395
+"Ibis White",Black,"Medford, NY",Audi,TT,70742,"Coupe 2.0T quattro S tronic",2015,"2.0L Inline-4 Gas Turbocharged",0,4,1,0,0,0,0,20990
+"Ibis White",Black,"Medford, NY",Audi,"RS 5",66095,Coupe,2013,"4.2L V-8 Gas",0,3,1,0,0,0,0,32990
+"Brilliant Black",Black,"Freeport, NY",Audi,Q3,63003,"Premium Plus quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18990
+"Phantom Black Pearl",Black,"Medford, NY",Audi,S5,49020,"Premium Plus Cabriolet",2013,"3.0L V-6 Gas Supercharged",0,3,1,0,0,0,0,23990
+"Black Sapphire Metallic","Ivory White","Saint James, NY",BMW,"6 Series",74561,"650i xDrive Gran Coupe",2013,"4.4L V-8 Gas Turbocharged",0,2,1,0,0,0,0,22996
+"Jet Black",Black,"Huntington Station, NY",BMW,X1,36576,"xDrive28i AWD",2016,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,17101
+"Mineral White Metallic",Unknown,"Riverhead, NY",BMW,X5,67872,"xDrive35i AWD",2018,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,26400
+"Mineral Gray Metallic",Unknown,"Riverhead, NY",BMW,X1,72141,"xDrive28i AWD",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,15247
+"Cashmere Silver Metallic",Blue,"Medford, NY",BMW,"7 Series",55466,750Li,2009,"4.4L V-8 Gas Turbocharged",0,3,1,0,0,0,0,16990
+"Ruby Black Metallic","Amaro Brown","Commack, NY",BMW,X5,29712,"xDrive35i AWD",2018,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,33895
+"Deep Sea Blue Metallic",Unknown,"Riverhead, NY",BMW,X3,87013,"xDrive28i AWD",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,15634
+"Mineral White Metallic",Unknown,"Patchogue, NY",BMW,"5 Series",64273,"535i xDrive Sedan",2016,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,21495
+"Mineral White Metallic",Cognac,"Commack, NY",BMW,X3,31628,xDrive30i,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,29895
+"Mineral White Metallic",Black,"Commack, NY",BMW,X5,56720,"xDrive35i AWD",2018,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,29795
+"Fluid Black W/Bmw I Frozen Blue Accent","Deka Dark","Medford, NY",BMW,i3,7525,"s 120 Ah with Range Extender",2019,"0.6L Inline-2 Electric",0,1,1,0,0,0,0,29590
+"Jet Black",Unknown,"Patchogue, NY",BMW,X1,82240,"xDrive28i AWD",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17995
+"Carbon Black Metallic",Black,"Freeport, NY",BMW,"5 Series",52811,"530i xDrive",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,1,0,0,0,20495
+"Jet Black",Oyster,"Patchogue, NY",BMW,"3 Series",25710,"330i xDrive Gran Turismo",2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,23849
+"Jet Black",Black,"Medford, NY",BMW,"5 Series",59323,"550i Sedan",2010,"4.8L V-8 Gas",0,3,1,0,0,0,0,14990
+"Mineral White Metallic",Black,"Commack, NY",BMW,"5 Series",20988,"540i xDrive",2018,"3.0L Inline-6 Gas Turbocharged",1,2,1,0,0,0,0,34095
+"Black Sapphire Metallic",Black,"Medford, NY",BMW,M6,56180,Coupe,2009,"5.0L V-10 Gas",0,3,1,0,0,0,0,27990
+"Toronto Red Metallic","Adelaide Grey","Bay Shore, NY",BMW,"X3 M",1730,Competition,2020,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,64994
+"Mineral White Metallic",Unknown,"Bay Shore, NY",BMW,"6 Series",38189,"640i xDrive Gran Turismo",2018,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,35783
+"Jet Black",Black,"West Babylon, NY",BMW,X1,71497,"xDrive28i AWD",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,12490
+"Callisto Gray Metallic",Tan,"Bergenfield, NJ",BMW,"5 Series",131044,"528i xDrive Sedan AWD",2014,"2.0L Inline-4 Gas Turbocharged",0,3,1,0,0,0,0,9995
+"Jet Black",Black,"Freeport, NY",BMW,"4 Series",42317,"430i xDrive Gran Coupe",2018,"2.0L Inline-4 Gas Turbocharged",0,1,0,0,0,0,1,18810
+"Mineral White Metallic",Black,"Freeport, NY",BMW,X6,56828,"xDrive35i AWD",2018,"3.0L Inline-6 Gas Turbocharged",1,1,1,0,0,0,0,32904
+"Fluid Black W/Bmw I Frozen Blue Accent","Atelier European Dark","Medford, NY",BMW,i3,5712,"94 Ah",2018,"L - Electric",0,1,1,0,0,0,0,19590
+"Titanium Silver Metallic",Black,"Hasbrouck Heights, NJ",BMW,"5 Series",98753,"535xi Touring Wagon AWD",2008,"3.0L Inline-6 Gas Turbocharged",0,2,1,0,0,0,0,7998
+"Laurel Gray Metallic W/Bmw I Frozen Blue Accent","Giga Cassia/Spice Gray","Medford, NY",BMW,i3,23966,"60 Ah",2014,"L - Electric",0,3,1,0,0,0,0,11990
+"Mineral Gray Metallic","Black W/Red Highlight","Freeport, NY",BMW,"3 Series",47382,"330i xDrive Sedan",2017,"2.0L Inline-4 Gas Turbocharged",1,2,1,0,0,0,0,13618
+"Tanzanite Blue Metallic","Black/Dark Oyster","Freeport, NY",BMW,"3 Series",52572,"340i xDrive Sedan",2018,"3.0L Inline-6 Gas Turbocharged",0,1,1,0,0,0,0,23975
+"Melbourne Red Metallic",Black,"Wantagh, NY",BMW,"3 Series",13066,"320i xDrive Sedan",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,19490
+"Jet Black",Black,"Commack, NY",BMW,"4 Series",27169,"430i xDrive Gran Coupe",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,25594
+"Moonlight Blue Metallic","Nougat Brown","Greatneck, NY",Audi,Q5,30969,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,23890
+"Brilliant Black",Black,"Hillside, NJ",Audi,A4,81520,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,16895
+"Utopia Blue Metallic","Chestnut Brown","Riverhead, NY",Audi,Q3,42306,"Premium with Sport Package quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18528
+"Azores Green Metallic","Nougat Brown","Commack, NY",Audi,Q5,58464,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,24495
+"Brilliant Black",Black,"Medford, NY",Audi,A5,19566,"Premium Sportback 45 TFSI quattro",2019,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,31590
+"Scuba Blue Metallic",Black,"Amityville, NY",Audi,A4,39911,"Premium Summer of Audi quattro S Tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,21965
+"Orca Black Metallic",Unknown,"Patchogue, NY",Audi,Q7,35681,"S-line 3.0T quattro",2011,"3.0L V-6 Gas Supercharged",0,1,1,0,0,0,0,17995
+"Florett Silver Metallic",Black,"Lynbrook, NY",Audi,A4,63751,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,17590
+"Ibis White","Chestnut Brown","Deer Park, NY",Audi,Q5,56790,"Premium Plus 2.0T quattro",2016,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,20490
+"Phantom Black Pearl Effect",Black,"Massapequa, NY",Audi,A6,71466,"Premium Plus Sedan 3.0T quattro Automatic",2014,"3.0L V-6 Gas Supercharged",2,2,1,0,0,0,0,14977
+"Matador Red Metallic","Nougat Brown","East Hanover, NJ",Audi,Q5,23782,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,28590
+"Moonlight Blue Metallic","Velvet Beige/Dark Carpet","Medford, NY",Audi,A7,69202,"Prestige Sportback 3.0S quattro",2013,"3.0L V-6 Gas Supercharged",0,3,1,0,0,0,0,23990
+"Florett Silver Metallic",Black,"Floral Park, NY",Audi,Q5,37325,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,26998
+"Moonlight Blue Metallic",Black,"Glen Cove, NY",Audi,A4,27847,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,24500
+"Manhattan Gray Metallic",Black,"Jamaica, NY",Audi,Q5,52849,Prestige,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,29980
+"Manhattan Gray Metallic","Atlas Beige","Medford, NY",Audi,Q5,84576,Premium,2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,21990
+"Monsoon Gray Metallic",Black/Brown,"Cheshire, CT",Audi,S4,121914,"Premium Plus Sedan S tronic",2014,"3.0L V-6 Gas Supercharged",0,1,1,0,0,0,0,14969
+"Manhattan Gray Metallic","Nougat Brown","Freeport, NY",Audi,Q5,62251,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,23990
+"Night Black",Black,"Rahway, NJ",Audi,Q7,77821,"Premium Plus 3.0T quattro",2014,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,14900
+"Florett Silver Metallic",Black,"Medford, NY",Audi,A4,13320,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,28990
+"Brilliant Black",Black,"Amityville, NY",Audi,Q5,35742,"Premium Plus 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",1,1,1,0,0,0,0,17965
+"Mythos Black Metallic",Black,"Medford, NY",Audi,Q5,47436,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,28990
+"Glacier White Metallic","Pearl Beige","Jamaica, NY",Audi,e-tron,22677,Prestige,2019,"L - Electric",0,2,1,0,0,0,0,51980
+"Phantom Black Pearl Effect",Black,"Stratford, CT",Audi,A3,70236,"Premium Plus Sedan 2.0T quattro",2015,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,12760
+"Phantom Black Pearl",Black,"Medford, NY",Audi,A8,57717,"L 3.0S",2013,"3.0L V-6 Gas Supercharged",0,2,1,0,0,0,0,25590
+"Brilliant Black",Black,"Freeport, NY",Audi,Q3,63003,"Premium Plus quattro",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,18990
+"Phantom Black Pearl",Black,"Medford, NY",Audi,A8,66878,"L 4.2L",2012,"4.2L V-8 Gas",0,3,1,0,0,0,0,22990
+"Dakota Gray Metallic",Black,"Medford, NY",Audi,A6,48517,"Prestige Sedan 3.0T quattro Automatic",2016,"3.0L V-6 Gas Supercharged",0,1,1,0,0,0,0,24990
+"Ibis White",Black,"Glen Cove, NY",Audi,Q5,25770,"Premium Plus",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,28762
+"Manhattan Gray Metallic",Black,"Bronx, NY",Audi,A4,40324,"Premium Plus quattro S tronic",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,22290
+White,Black,"Medford, NY",Porsche,Panamera,81590,"Turbo S",2012,"4.8L V-8 Gas Turbocharged",0,4,1,0,0,0,0,44990
+Silver,Black,"Farmingdale, NY",Porsche,911,21135,"Carrera Cabriolet Manual",2001,"3.4L Flat-6 Gas",0,2,1,0,0,0,0,34900
+"Crystal Silver Metallic","Black W/Alcantara","Huntington, NY",Porsche,Cayenne,81356,"GTS Tiptronic AWD",2010,"4.8L V-8 Gas",0,3,1,0,0,0,0,19995
+"Amaranth Red Metallic","Luxor Beige","Medford, NY",Porsche,Boxster,21224,S,2014,"3.4L Flat-6 Gas",0,1,1,0,0,0,0,44990
+Black,Black,"Farmingdale, NY",Porsche,911,18128,"Carrera Manual",1997,"3.6L Flat-6 Gas",0,4,1,0,0,0,0,89900
+Black,Black,"Medford, NY",Porsche,Cayenne,56944,"Diesel AWD",2015,"3.0L V-6 Diesel Turbocharged",0,1,1,0,0,0,0,35990
+White,Black,"Hasbrouck Heights, NJ",Porsche,Cayenne,59428,"Turbo AWD",2012,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,34445
+White,Tan,"Commack, NY",Porsche,Macan,29830,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,37595
+"Jet Black Metallic",Black,"Jamaica, NY",Porsche,Cayenne,61908,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,35980
+White,Other,"Medford, NY",Porsche,Panamera,9405,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,70990
+"Guards Red",Black,"Milford, CT",Porsche,Cayman,66501,Coupe,2008,"2.7L Flat-6 Gas",0,4,1,0,0,0,0,19855
+White,Beige,"Medford, NY",Porsche,Cayenne,44812,"Platinum Edition AWD",2014,"3.6L V-6 Gas",0,1,1,0,0,0,0,30990
+"Jet Black Metallic",Brown,"Jamaica, NY",Porsche,Macan,38555,"Turbo AWD",2015,"3.6L V-6 Gas Turbocharged",0,2,1,0,0,0,0,43080
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,"718 Cayman",21437,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,48230
+Red,Black,"Medford, NY",Porsche,Panamera,31090,S,2010,"4.8L V-8 Gas",0,3,1,0,0,0,0,34590
+"Carrara White Metallic",Black,"Larchmont, NY",Porsche,Cayenne,44176,"S E-Hybrid Platinum Edition AWD",2017,"3.0L V-6 Plug-In Hybrid Supercharged",0,1,1,0,0,0,0,49498
+"Gt Silver Metallic",Black,"Jamaica, NY",Porsche,"718 Cayman",13157,"GTS Coupe",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,69980
+Black,Black,"Medford, NY",Porsche,Cayman,7089,S,2014,"3.4L Flat-6 Gas",0,1,1,0,0,0,0,53990
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,Macan,54043,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,30480
+Black,Espresso,"Mountain Lakes, NJ",Porsche,Cayenne,41080,AWD,2016,"3.6L V-6 Gas",1,2,1,0,0,0,0,29894
+Black,Black,"Huntington, NY",Porsche,Cayenne,96595,"GTS AWD",2016,"3.6L V-6 Gas Turbocharged",0,2,1,0,0,0,0,37995
+White,Black,"New York, NY",Porsche,Macan,16071,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42995
+Black,Black,"Larchmont, NY",Porsche,Boxster,9278,Roadster,2017,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,52996
+White,Black,"Manasquan, NJ",Porsche,911,30089,"Carrera Cabriolet",2010,"3.6L Flat-6 Gas",0,5,1,0,0,0,0,53499
+Black,Black,"Jamaica, NY",Porsche,Macan,26220,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,36480
+"Dark Blue",Tan,"Ridgewood, NY",Porsche,Cayenne,98957,"Tiptronic AWD",2013,"3.6L V-6 Gas",0,1,1,0,0,0,0,17995
+White,Black,"Jamaica, NY",Porsche,Macan,8395,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,38980
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Macan,3311,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,50995
+Red,Black,"Staten Island, NY",Porsche,911,15748,"Carrera 4S",2013,"3.8L Flat-6 Gas",1,3,1,0,0,0,0,74999
+Black,Black,"Medford, NY",Porsche,Macan,41808,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,37590
+Black,Black,"Medford, NY",Porsche,Macan,41808,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,37590
+"Rhodium Silver Metallic",Espresso,"Morristown, NJ",Porsche,Macan,20161,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,33497
+"Guards Red","Black/Bordeaux Red","New York, NY",Porsche,911,7312,Turbo,2017,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,133995
+"Seal Grey Metallic",Black,"Huntington Station, NY",Porsche,Boxster,26759,S,2006,"3.2L Flat-6 Gas",0,1,1,0,0,0,0,27500
+Black,Brown,"Elizabeth, NJ",Porsche,Panamera,113837,4S,2010,"4.8L V-8 Gas",1,6,1,0,0,0,0,21995
+Black,Black,"Jamaica, NY",Porsche,Macan,7277,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,48980
+White,"Dk. Brown","Medford, NY",Porsche,Boxster,33333,S,2011,"3.4L Flat-6 Gas",0,2,1,0,0,0,0,40990
+"Jet Black Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,6237,"S Coupe AWD",2020,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,89900
+"Carrara White","Natural Brown","Union City, NJ",Porsche,911,49995,"Turbo Cabriolet",2008,"3.6L Flat-6 Gas Turbocharged",0,5,1,0,0,0,0,57995
+Black,Black,"Jamaica, NY",Porsche,Macan,29002,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,39480
+"Rhodium Silver Metallic",Black,"Huntington Station, NY",Porsche,Macan,31368,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,59900
+Black,Black,"Medford, NY",Porsche,Macan,21254,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,41990
+Black,Black,"Medford, NY",Porsche,Cayman,70155,Coupe,2015,"2.7L Flat-6 Gas",0,2,1,0,0,0,0,33990
+"Matte Gray",White,"Westbury, NY",Porsche,Macan,36815,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,53900
+Black,Black,"Jamaica, NY",Porsche,Macan,43305,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,37480
+"Night Blue Metallic",Black,"Bronx, NY",Porsche,Macan,72998,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,30790
+"Rhodium Silver Metallic",Black,"Berlin, CT",Porsche,Macan,29254,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,38000
+"Miami Blue",Black,"Medford, NY",Porsche,"718 Boxster",5203,Roadster,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,55990
+Black,Black,"Medford, NY",Porsche,Macan,72809,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,33590
+"Volcano Grey Metallic","8-Way Power Seats","Verona, NJ",Porsche,Macan,13655,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40090
+Unknown,"Black/Luxor Beige","Edison, NJ",Porsche,Macan,30945,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,41900
+"Agate Grey Metallic",Black,"New York, NY",Porsche,911,29273,"Carrera S Cabriolet",2017,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,93995
+"Rhodium Silver Metallic",Black,"Larchmont, NY",Porsche,Cayenne,31290,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47491
+"Rhodium Silver Metallic",Black,"Lodi, NJ",Porsche,Macan,69436,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,26895
+White,Beige,"Medford, NY",Porsche,Panamera,49552,S,2012,"4.8L V-8 Gas",0,4,1,0,0,0,0,36990
+"Agate Grey Metallic",Black,"New York, NY",Porsche,911,13437,"Carrera 4 GTS Cabriolet",2018,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,126500
+"Jet Black Metallic",Black,"Larchmont, NY",Porsche,911,17049,"Carrera S",2015,"3.8L Flat-6 Gas",0,2,1,0,0,0,0,83991
+"Jet Black Metallic",Black,"Avenel, NJ",Porsche,Macan,14629,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,55740
+White,Espresso,"Jersey City, NJ",Porsche,Cayenne,107973,"S AWD",2013,"4.8L V-8 Gas",0,3,1,0,0,0,0,19972
+"Rhodium Silver Metallic",Black,"New York, NY",Porsche,Cayenne,20169,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,54995
+White,"Black/Garnet Red","Huntington Station, NY",Porsche,Macan,33456,"Turbo AWD with Performance Package",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69900
+White,"Black/Luxor Beige","Larchmont, NY",Porsche,Macan,27956,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40491
+"Rhodium Silver Metallic",Black,"Larchmont, NY",Porsche,Macan,39664,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,36992
+"Jet Black Metallic",Black,"Bronx, NY",Porsche,Cayenne,20665,"Platinum Edition AWD",2018,"3.6L V-6 Gas",1,1,1,0,0,0,0,45595
+"Carrara White Metallic","Black/Carmine Red","Jamaica, NY",Porsche,Cayenne,56715,"GTS AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,60980
+"Rhodium Silver Metallic",Black,"Huntington Station, NY",Porsche,Macan,34515,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,37900
+White,"Black/Luxor Beige","East Hartford, CT",Porsche,Macan,35327,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,39375
+Black,Black,"North Plainfield, NJ",Porsche,Cayenne,83665,"Turbo AWD",2013,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,31900
+"Jet Black Metallic",Black,"Wall Township, NJ",Porsche,Macan,20658,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,45995
+Black,Red,"Elmont, NY",Porsche,Cayenne,38699,"Platinum Edition AWD",2017,"3.6L V-6 Gas",2,1,1,0,0,0,0,45950
+Blue,Grey,"Elizabeth, NJ",Porsche,Panamera,135258,S,2012,"4.8L V-8 Gas",0,2,1,0,0,0,0,22995
+"Guards Red",Black,"Larchmont, NY",Porsche,911,26430,"Carrera 4S",2016,"3.8L Flat-6 Gas",0,2,1,0,0,0,0,90993
+"Volcano Grey Metallic",Black,"Huntington Station, NY",Porsche,Macan,32992,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,38900
+"Night Blue Metallic",Black,"Hillside, NJ",Porsche,Macan,324,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,49695
+"Dark Blue Metallic",Unknown,"Newark, NJ",Porsche,Cayenne,127742,"Turbo AWD",2013,"4.8L V-8 Gas Turbocharged",1,2,1,0,0,0,0,25995
+"Carmine Red",Unknown,"Jamaica, NY",Porsche,Macan,41424,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,48980
+"Dark Blue Metallic",Black,"Secaucus, NJ",Porsche,Macan,46144,"S AWD",2016,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,35686
+"Agate Grey Metallic",Espresso/Cognac,"New York, NY",Porsche,911,16365,"Carrera 4S",2018,"3.0L Flat-6 Gas Turbocharged",0,1,0,0,0,0,1,110995
+"Rhodium Silver Metallic","Agate Grey","Hillside, NJ",Porsche,Cayenne,43190,"Platinum Edition AWD",2017,"3.6L V-6 Gas",1,1,1,0,0,0,0,35695
+"Racing Yellow",Black,"Medford, NY",Porsche,Boxster,65125,Roadster,2014,"2.7L Flat-6 Gas",0,3,1,0,0,0,0,32990
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Panamera,31,"4 E-Hybrid AWD",2019,"2.9L V-6 Plug-In Hybrid Turbocharged",0,0,1,0,0,0,0,98995
+Black,Gray,"Nanuet, NY",Porsche,Macan,15089,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,41900
+"Night Blue Metallic","Black/Luxor Beige","Larchmont, NY",Porsche,Panamera,12654,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,72995
+"Purpurite Metallic",Black,"Inwood, NY",Porsche,Cayenne,61825,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,39995
+"Speed Yellow",Black,"Stratford, CT",Porsche,911,24360,"Carrera 997",2005,"3.6L Flat-6 Gas",0,3,1,0,0,0,0,41452
+White,Black,"Jamaica, NY",Porsche,Cayenne,37034,AWD,2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,40730
+Unknown,Black,"Verona, NJ",Porsche,911,27387,"Carrera 4S",2017,"3.0L Flat-6 Gas Turbocharged",1,1,1,0,0,0,0,87555
+"Mahogany Metallic",Unknown,"Verona, NJ",Porsche,Cayenne,11130,"Turbo AWD",2019,"4.0L V-8 Gas Turbocharged",1,2,1,0,0,0,0,102777
+"Night Blue Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Macan,48310,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,35699
+"Sapphire Blue Metallic",Black,"New York, NY",Porsche,"718 Boxster",20440,"S Roadster",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,66995
+"Sapphire Blue Metallic",Black,"New York, NY",Porsche,"718 Boxster",20440,"S Roadster",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,66995
+"Rhodium Silver Metallic",Black,"Stratford, CT",Porsche,Macan,97467,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,24993
+"Carrara White",Cognac,"Huntington, NY",Porsche,Panamera,71265,Hatchback,2012,"3.6L V-6 Gas",0,2,1,0,0,0,0,28995
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,4761,"Coupe AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,77995
+"Carrara White Metallic",Black,"New York, NY",Porsche,Taycan,1813,4S,2020,"L - Electric",0,1,1,0,0,0,0,116500
+Unknown,Unknown,"Verona, NJ",Porsche,Panamera,6512,"4 E-Hybrid AWD",2019,"2.9L V-6 Plug-In Hybrid Turbocharged",0,2,1,0,0,0,0,87433
+"Volcano Grey Metallic",Black,"East Hartford, CT",Porsche,Macan,9056,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,52796
+"Meteor Grey Metallic","Black/Luxor Beige","New York, NY",Porsche,Cayenne,42320,"S AWD",2017,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,49995
+"Biscay Blue Metallic","Slate Grey","New York, NY",Porsche,Cayenne,1014,AWD,2019,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,69500
+Black,Black,"Medford, NY",Porsche,Cayenne,45541,"S AWD",2013,"4.8L V-8 Gas",0,2,1,0,0,0,0,31990
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,5989,"S AWD",2019,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,80995
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Cayenne,4839,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69995
+"Mahogany Metallic",Black,"Verona, NJ",Porsche,Cayenne,17811,AWD,2019,"3.0L V-6 Gas Turbocharged",2,1,1,0,0,0,0,58555
+Unknown,Unknown,"Ocean, NJ",Porsche,Macan,37219,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,40905
+White,Black,"Larchmont, NY",Porsche,Cayenne,19895,AWD,2019,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,61492
+"Night Blue Metallic",Black,"Larchmont, NY",Porsche,Panamera,33012,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68198
+"Sapphire Blue Metallic",Black,"Jersey City, NJ",Porsche,Macan,94624,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,29982
+"Gt Silver Metallic",Black,"Medford, NY",Porsche,"718 Boxster",38131,Roadster,2018,"2.0L Flat-4 Gas Turbocharged",0,3,1,0,0,0,0,50590
+"Gt Silver Metallic",Brown,"Medford, NY",Porsche,Panamera,85362,Turbo,2010,"4.8L V-8 Gas Turbocharged",0,3,1,0,0,0,0,33990
+"Dark Blue Metallic",Black,"Lodi, NJ",Porsche,Macan,57702,"Turbo AWD",2016,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,40895
+Black,"Black/Garnet Red","New York, NY",Porsche,Cayenne,41722,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,43995
+"Rhodium Silver Metallic",Black,"Larchmont, NY",Porsche,Macan,27902,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40991
+White,Black,"Medford, NY",Porsche,Macan,13082,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,50990
+"Sapphire Blue Metallic","Black/Garnet Red","New York, NY",Porsche,Macan,16340,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,45995
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Macan,7755,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,52995
+White,Black,"New York, NY",Porsche,Cayenne,34879,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47450
+"Jet Black Metallic",Black,"South Amboy, NJ",Porsche,Boxster,24395,"S Roadster",2017,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,53990
+Unknown,"Bordeaux Red","Edison, NJ",Porsche,911,8450,"Carrera 4S",2017,"3.0L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,109900
+"Carrara White Metallic",Black,"Larchmont, NY",Porsche,Cayenne,8269,"S E-Hybrid Platinum Edition AWD",2018,"3.0L V-6 Plug-In Hybrid Supercharged",0,1,1,0,0,0,0,63995
+"Night Blue Metallic","Black/Garnet Red","New York, NY",Porsche,Macan,26865,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,57995
+Red,Black,"Upper Saddle River, NJ",Porsche,911,8630,Carrera,2014,"3.4L Flat-6 Gas",0,4,1,0,0,0,0,70995
+"Carmine Red",Black,"Union, NJ",Porsche,"718 Cayman",16652,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,2,1,0,0,0,0,50999
+"Burgundy Red Metallic",Marsala/Cream,"New York, NY",Porsche,Panamera,31258,"4S AWD",2018,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,79995
+Black,Black,"Lodi, NJ",Porsche,Cayenne,101288,"Tiptronic AWD",2013,"3.6L V-6 Gas",1,2,1,0,0,0,0,16895
+"Jet Black Metallic",Black,"Lodi, NJ",Porsche,Macan,80493,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,28895
+"Jet Black Metallic",Black,"New York, NY",Porsche,Cayenne,47540,"S Hybrid AWD",2014,"3.0L V-6 Hybrid Supercharged",0,2,1,0,0,0,0,28775
+"Quartzite Metallic",Black,"New York, NY",Porsche,Cayenne,35858,AWD,2019,"3.0L V-6 Gas Turbocharged",0,0,1,0,0,0,0,61995
+"Jet Black Metallic","Black/Cohiba Brown","Bronx, NY",Porsche,Cayenne,64953,"S AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,42995
+Black,Black,"Elmwood Park, NJ",Porsche,Macan,28958,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,34790
+White,Black,"Bronx, NY",Porsche,Macan,49004,AWD,2017,"2.0L Inline-4 Gas Turbocharged",1,1,1,0,0,0,0,31990
+Chalk,"Bordeaux Red","New York, NY",Porsche,911,12130,"Carrera 4 GTS Cabriolet",2019,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,139995
+Black,Black,"East Hartford, CT",Porsche,Macan,10587,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,52700
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,4570,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65900
+"Night Blue Metallic","Luxor Beige","New York, NY",Porsche,911,19487,Carrera,2017,"3.0L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,81995
+"Jet Black Metallic","Luxor Beige","South Amboy, NJ",Porsche,Cayenne,43177,"Platinum Edition AWD",2017,"3.6L V-6 Gas",1,1,1,0,0,0,0,35450
+"Gt Silver Metallic",Black,"Larchmont, NY",Porsche,911,12618,"Carrera 4S Cabriolet",2018,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,119996
+"Gt Silver Metallic",Black,"New York, NY",Porsche,"718 Cayman",23,"GTS Coupe",2019,"2.5L Flat-4 Gas Turbocharged",0,0,1,0,0,0,0,85995
+"Dark Blue Metallic","Umber/Light Tartufo","Hillside, NJ",Porsche,Cayenne,93077,"GTS AWD",2013,"4.8L V-8 Gas",0,3,1,0,0,0,0,28595
+Black,Brown,"Naugatuck, CT",Porsche,Cayenne,62800,"GTS AWD",2013,"4.8L V-8 Gas",1,2,1,0,0,0,0,32795
+"Jet Black Metallic",Black,"New York, NY",Porsche,911,5388,Turbo,2018,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,155500
+"Jet Black Metallic",Black,"New York, NY",Porsche,911,8202,"Turbo S",2017,"3.8L Flat-6 Gas Turbocharged",0,5,1,0,0,0,0,159995
+"Night Blue Metallic",Burgundy,"Springfield Township, NJ",Porsche,Macan,60547,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,33977
+Black,Black,"New York, NY",Porsche,Macan,28674,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40995
+Black,Black,"Larchmont, NY",Porsche,Cayenne,17543,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,55995
+"Meteor Grey Metallic",Black,"Secaucus, NJ",Porsche,Cayenne,51200,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,43686
+"Sapphire Blue Metallic",Black,"Springfield Township, NJ",Porsche,Macan,51942,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,31000
+White,"Black/Luxor Beige","Larchmont, NY",Porsche,"718 Boxster",9952,Roadster,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,57498
+"Dark Blue Metallic",Unknown,"Smithtown, NY",Porsche,Boxster,28000,Roadster,2015,"2.7L Flat-6 Gas",0,2,1,0,0,0,0,NULL
+"Jet Black Metallic",Black,"Huntington Station, NY",Porsche,"718 Boxster",9075,"S Roadster",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,68000
+"Atlas Grey Metallic",Black,"Riverdale, NJ",Porsche,911,102319,"Carrera 4S",2007,"3.8L Flat-6 Gas",0,3,1,0,0,0,0,32990
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,14138,"S AWD",2019,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,79500
+Black,Black,"Brooklyn, NY",Porsche,Cayenne,45210,"S AWD",2004,"4.5L V-8 Gas Turbocharged",0,3,1,0,0,0,0,10950
+Unknown,Unknown,"Edison, NJ",Porsche,Boxster,46727,S,2013,"3.4L Flat-6 Gas",0,1,1,0,0,0,0,43900
+"Dark Blue Metallic",Espresso,"Huntington Station, NY",Porsche,Macan,50454,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,35900
+"Quartzite Metallic",Black,"East Hartford, CT",Porsche,Cayenne,16465,"S AWD",2019,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,79994
+"Agate Gray Metallic",Black,"Hillside, NJ",Porsche,Macan,85553,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,26395
+Black,Black,"New York, NY",Porsche,Macan,17598,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+Black,Gray,"Brooklyn, NY",Porsche,Cayenne,153510,"S Tiptronic AWD",2006,"4.5L V-8 Gas",1,4,1,0,0,0,0,5950
+"Carrara White Metallic",Black,"Brooklyn, NY",Porsche,Cayenne,27243,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,53995
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Taycan,3131,Turbo,2020,"L - Electric",0,1,1,0,0,0,0,148800
+"Carrara White",Black,"Red Bank, NJ",Porsche,911,41859,"Turbo S Cabriolet",2013,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,94995
+Unknown,"Black/Saddle Brown","Edison, NJ",Porsche,Panamera,314,"4S AWD",2018,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,88900
+Unknown,Black,"Edison, NJ",Porsche,Taycan,1476,4S,2020,"L - Electric",0,1,1,0,0,0,0,116900
+"Guards Red",Black,"Manasquan, NJ",Porsche,"718 Cayman",18081,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,56700
+Black,"Black/Luxor Beige","Huntington Station, NY",Porsche,Cayenne,20179,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,55900
+White,"Saddle Brown/Luxor Beige","Woodbridge, NJ",Porsche,Cayenne,20706,"Platinum Edition AWD",2017,"3.6L V-6 Gas",1,2,1,0,0,0,0,41995
+White,"Saddle Brown/Luxor Beige","Woodbridge, NJ",Porsche,Cayenne,35071,"Platinum Edition AWD",2017,"3.6L V-6 Gas",1,1,1,0,0,0,0,42895
+"Night Blue Metallic",Black,"White Plains, NY",Porsche,911,19350,"Carrera 4S",2017,"3.0L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,97841
+Black,Black,"Hillside, NJ",Porsche,Panamera,17849,"4 E-Hybrid AWD",2018,"2.9L V-6 Plug-In Hybrid Turbocharged",1,1,1,0,0,0,0,68395
+Black,"Luxor Beige","Woodbridge, NJ",Porsche,Panamera,39007,4,2016,"3.6L V-6 Gas",0,3,1,0,0,0,0,43995
+Black,Black,"Medford, NY",Porsche,Macan,39212,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,3,1,0,0,0,0,42990
+"Volcano Grey Metallic",Black/Chalk,"Larchmont, NY",Porsche,Panamera,14641,"4S AWD",2018,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,86595
+"Meteor Grey Metallic",Black,"New York, NY",Porsche,Cayenne,6646,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+"Biscay Blue Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,17143,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65900
+"Racing Yellow",Black,"New York, NY",Porsche,Cayman,20999,Coupe,2014,"2.7L Flat-6 Gas",0,1,1,0,0,0,0,45995
+Unknown,Black,"Edison, NJ",Porsche,Macan,32408,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50900
+"Volcano Grey Metallic","Black/Garnet Red","Larchmont, NY",Porsche,Macan,22972,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,44995
+"Dolomite Silver Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,6826,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69900
+"Sapphire Blue Metallic","Saddle Brown/Luxor Beige","Hillside, NJ",Porsche,Panamera,20169,"4S AWD",2018,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,73695
+Unknown,Black,"Edison, NJ",Porsche,"718 Cayman",7344,"S Coupe",2019,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,69900
+"Night Blue Metallic","Garnet Red/Black","New York, NY",Porsche,Macan,13591,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+Black,Black,"Hillside, NJ",Porsche,Panamera,43602,"4S AWD",2017,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,63395
+White,Black,"Huntington Station, NY",Porsche,Cayenne,6616,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69900
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,Macan,62216,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,33980
+"Basalt Black Metallic",Terracotta,"Farmingdale, NY",Porsche,911,22695,Turbo,2007,"3.6L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,94900
+White,Black,"Saint James, NY",Porsche,911,19300,Carrera,2017,"3.0L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,83996
+Black,Other,"Medford, NY",Porsche,Macan,41612,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,39990
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Cayenne,5886,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,70995
+"Volcano Grey Metallic","Black/Garnet Red","Larchmont, NY",Porsche,Macan,27100,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65996
+White,Black,"Huntington Station, NY",Porsche,Cayenne,7632,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69900
+Black,Black,"Huntington Station, NY",Porsche,Panamera,18365,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,72900
+White,Black,"Bronx, NY",Porsche,Macan,60231,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,4,1,0,0,0,0,36995
+"Night Blue Metallic","Black/Luxor Beige","Larchmont, NY",Porsche,Macan,8813,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,47595
+White,"Saddle Brown/Luxor Beige","New York, NY",Porsche,Cayenne,102,"Turbo AWD",2018,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,99500
+"Volcano Grey Metallic",Black,"Larchmont, NY",Porsche,Macan,4054,"S AWD",2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68492
+Unknown,Unknown,"Englewood, NJ",Porsche,Cayenne,19958,AWD,2019,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,NULL
+Black,"Bordeaux Red","Huntington Station, NY",Porsche,"718 Cayman",5166,"S Coupe",2019,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,75900
+Black,Black,"Medford, NY",Porsche,Cayenne,73087,"S E-Hybrid AWD",2017,"3.0L V-6 Plug-In Hybrid Supercharged",0,2,1,0,0,0,0,42990
+Charcoal,Black,"Manasquan, NJ",Porsche,911,19065,"Turbo Cabriolet",2008,"3.6L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,88900
+Gray,Black,"Medford, NY",Porsche,Macan,35741,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40590
+Black,Unknown,"Harriman, NY",Porsche,Panamera,24702,4,2016,"3.6L V-6 Gas",0,1,1,0,0,0,0,NULL
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,4982,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995
+Unknown,Unknown,"Englewood, NJ",Porsche,Cayenne,34515,"GTS AWD",2016,"3.6L V-6 Gas Turbocharged",1,1,1,0,0,0,0,NULL
+"Night Blue Metallic","Saddle Brown","New York, NY",Porsche,Panamera,23134,GTS,2016,"4.8L V-8 Gas",0,1,1,0,0,0,0,69995
+Silver,Brown,"Medford, NY",Porsche,Cayenne,39115,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,45990
+White,Black,"New York, NY",Porsche,Macan,22494,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,59595
+"Moonlight Blue Metallic",Black,"Hasbrouck Heights, NJ",Porsche,Cayenne,4357,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,66498
+Black,"Saddle Brown","Verona, NJ",Porsche,Macan,20318,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,47858
+White,Black,"East Hartford, CT",Porsche,Macan,7026,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,54124
+White,"Luxor Beige","Freeport, NY",Porsche,Cayenne,40589,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,44990
+White,"Luxor Beige","Freeport, NY",Porsche,Cayenne,40589,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,44990
+"Jet Black Metallic",Black,"Larchmont, NY",Porsche,Macan,31318,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52498
+White,"Luxor Beige","Bay Shore, NY",Porsche,Panamera,41450,4,2015,"3.6L V-6 Gas",1,3,1,0,0,0,0,40988
+Black,Brown,"South Hackensack, NJ",Porsche,Cayenne,104114,"GTS AWD",2014,"4.8L V-8 Gas",1,2,1,0,0,0,0,29995
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Cayenne,8926,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69995
+"Volcano Gray Metallic",Black,"Larchmont, NY",Porsche,Macan,11939,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,47995
+Black,Black,"Huntington Station, NY",Porsche,Macan,29130,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,40900
+Black,Black,"Medford, NY",Porsche,Boxster,17257,S,2014,"3.4L Flat-6 Gas",0,2,1,0,0,0,0,48590
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Macan,24153,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,45995
+"Rhodium Silver Metallic","Saddle Brown","Verona, NJ",Porsche,Macan,28965,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,46210
+"Carrara White Metallic","Black/Luxor Beige","Larchmont, NY",Porsche,Macan,18977,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,54998
+Black,Black,"Staten Island, NY",Porsche,Panamera,51803,GTS,2013,"4.8L V-8 Gas",0,2,1,0,0,0,0,45999
+Unknown,Unknown,"Ocean, NJ",Porsche,Macan,45718,"S AWD",2018,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,41905
+"Jet Black Metallic",Black,"Jamaica, NY",Porsche,Macan,28436,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,42730
+White,"Luxor Beige","New York, NY",Porsche,Cayenne,28935,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47995
+Black,Unknown,"Bay Shore, NY",Porsche,Panamera,21902,"Turbo S E-Hybrid AWD",2018,"4.0L V-8 Plug-In Hybrid Turbocharged",0,1,1,0,0,0,0,135598
+White,Black,"New York, NY",Porsche,911,7,"Carrera 4S Coupe",2019,"3.0L Flat-6 Gas Turbocharged",0,0,1,0,0,0,0,129995
+White,Black,"Medford, NY",Porsche,Cayenne,39460,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,3,1,0,0,0,0,45990
+Gray,Brown,"Medford, NY",Porsche,Macan,28066,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42990
+"Carmine Red",Black,"New York, NY",Porsche,911,1037,GT3,2018,"4.0L Flat-6 Gas",0,1,1,0,0,0,0,188500
+"Moonlight Blue Metallic","Black/Luxor Beige","Larchmont, NY",Porsche,Cayenne,35510,"S AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,58991
+Gray,Beige,"Medford, NY",Porsche,Panamera,29761,Hatchback,2014,"3.6L V-6 Gas",0,2,1,0,0,0,0,42590
+White,"Agate Grey","New Rochelle, NY",Porsche,Macan,16943,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,48995
+Black,Unknown,"Yonkers, NY",Porsche,911,8904,"Carrera S Coupe",2020,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+"Topaz Brown Metallic",Unknown,"Brooklyn, NY",Porsche,Panamera,96122,S,2010,"4.8L V-8 Gas",1,3,1,0,0,0,0,NULL
+"Volcano Grey Metallic",Black,"Huntington Station, NY",Porsche,Macan,40500,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,44900
+"Sapphire Blue Metallic",Black,"New York, NY",Porsche,Macan,11172,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995
+Black,Black,"Medford, NY",Porsche,Panamera,49114,Hatchback,2012,"3.6L V-6 Gas",0,2,1,0,0,0,0,33990
+"Sand White",Brown,"North Plainfield, NJ",Porsche,Cayenne,89884,"Turbo AWD",2011,"4.8L V-8 Gas Turbocharged",0,NULL,1,0,0,0,0,NULL
+White,Black,"Elmont, NY",Porsche,Cayenne,26361,"Tiptronic AWD",2013,"3.6L V-6 Gas",1,2,1,0,0,0,0,29950
+"Jet Black Metallic",Black,"Larchmont, NY",Porsche,Panamera,23882,RWD,2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,74491
+"Amaranth Red Metallic","Luxor Beige","Farmingdale, NY",Porsche,911,30831,Carrera,2013,"3.4L Flat-6 Gas",0,3,1,0,0,0,0,66900
+Black,Black,"Medford, NY",Porsche,Cayenne,35227,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,50990
+White,Black,"New York, NY",Porsche,Macan,27364,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40995
+"Jet Black Metallic","Luxor Beige","Freeport, NY",Porsche,Panamera,9052,GTS,2015,"4.8L V-8 Gas",0,1,1,0,0,0,0,59994
+"Rhodium Silver Metallic",Black,"Hillside, NJ",Porsche,Cayenne,63396,AWD,2016,"3.6L V-6 Gas",1,3,1,0,0,0,0,29695
+"Night Blue Metallic","Agate Grey","New York, NY",Porsche,Macan,20442,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,46995
+White,Beige,"Medford, NY",Porsche,Cayenne,47136,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,48990
+"Mahogany Metallic","Black/Luxor Beige","Huntington Station, NY",Porsche,Cayenne,29807,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52900
+"Meteor Grey Metallic",Black,"New York, NY",Porsche,Cayenne,37430,AWD,2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,46995
+Black,"Black/Bordeaux Red","Medford, NY",Porsche,Boxster,20695,Roadster,2017,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,49990
+"Amaranth Red Metallic",Black,"Medford, NY",Porsche,Boxster,57706,Roadster,2013,"2.7L Flat-6 Gas",0,2,1,0,0,0,0,33990
+"Rhodium Silver Metallic","Agate Grey","New York, NY",Porsche,Macan,37297,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995
+Unknown,Unknown,"Greenvale, NY",Porsche,Cayman,11234,S,2016,"3.4L Flat-6 Gas",0,1,1,0,0,0,0,59888
+Black,Black,"Jamaica, NY",Porsche,Cayenne,39281,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,43730
+Chalk,"Bordeaux Red","New York, NY",Porsche,911,18196,"Turbo Cabriolet",2019,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,168800
+"Jet Black Metallic",Espresso/Cognac,"New York, NY",Porsche,911,40537,"Turbo S",2015,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,123995
+"Cobalt Blue Metallic",Black,"Farmingdale, NY",Porsche,911,12309,Turbo,2007,"3.6L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,93800
+"Jet Black Metallic",Black,"New York, NY",Porsche,Cayenne,2226,"E-Hybrid AWD",2019,"3.0L V-6 Plug-In Hybrid Supercharged",0,0,1,0,0,0,0,87995
+White,Unknown,"Verona, NJ",Porsche,Cayenne,2439,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,70444
+Beige,Black,"Medford, NY",Porsche,Cayenne,40108,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,46990
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Cayenne,8285,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995
+"Volcano Gray Metallic",Black,"Larchmont, NY",Porsche,Macan,39728,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67092
+"Carmine Red",Unknown,"Verona, NJ",Porsche,Macan,42727,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,49777
+Black,Black,"Jamaica, NY",Porsche,Cayenne,40353,AWD,2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,41980
+White,Brown,"Medford, NY",Porsche,Macan,6212,"S AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67990
+Unknown,Black,"Edison, NJ",Porsche,Macan,16938,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68490
+Unknown,Black,"Edison, NJ",Porsche,Macan,24240,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,45400
+Unknown,Black,"Edison, NJ",Porsche,Macan,27053,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,46900
+White,Black,"New York, NY",Porsche,Cayenne,6492,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68500
+"Rhodium Silver Metallic",Black,"New York, NY",Porsche,Cayenne,9387,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67450
+Black,Black,"New York, NY",Porsche,Macan,25601,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,40995
+Unknown,"Black/Luxor Beige","Edison, NJ",Porsche,Macan,28155,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,44900
+"Jet Black Metallic",Black,"New York, NY",Porsche,911,29761,"Carrera 4 Cabriolet",2017,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,96995
+"Dark Blue Metallic","Dk. Brown","Medford, NY",Porsche,Cayenne,21121,"Diesel AWD",2013,"3.0L V-6 Diesel Turbocharged",0,1,1,0,0,0,0,35990
+Brown,"Natural Brown","Wallingford, CT",Porsche,911,61545,"Turbo Cabriolet",2008,"3.6L Flat-6 Gas Turbocharged",0,2,0,0,0,1,0,54900
+"Racing Yellow",Black,"Avenel, NJ",Porsche,911,27083,"Turbo S",2015,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,114981
+Unknown,Black,"Edison, NJ",Porsche,Panamera,20671,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,76900
+White,Unknown,"Madison, NJ",Porsche,Macan,42162,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40406
+Unknown,"Luxor Beige","Edison, NJ",Porsche,Cayenne,15704,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,53900
+"Rhodium Silver Metallic",Black,"Red Bank, NJ",Porsche,Macan,26828,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,0,0,0,0,1,53995
+"Carrara White Metallic",Black,"New York, NY",Porsche,Panamera,20,"4 E-Hybrid AWD",2019,"2.9L V-6 Plug-In Hybrid Turbocharged",0,0,1,0,0,0,0,114995
+Black,"Black/Luxor Beige","Hillside, NJ",Porsche,Cayenne,44442,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,42695
+White,Black,"New York, NY",Porsche,Macan,3119,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,53995
+"Graphite Blue Metallic",Gray,"Great Neck, NY",Porsche,"718 Cayman",9330,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,59900
+Unknown,"Black/Luxor Beige","Ocean, NJ",Porsche,Cayenne,30385,"Platinum Edition AWD",2018,"3.6L V-6 Gas",1,1,1,0,0,0,0,44905
+"Night Blue Metallic",Black/Chalk,"New York, NY",Porsche,Boxster,32445,Roadster,2017,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,52500
+"Meteor Gray Metallic","Havanna/Sand Beige","Stratford, CT",Porsche,Cayenne,98305,"Tiptronic AWD",2009,"3.6L V-6 Gas",1,5,1,0,0,0,0,11605
+"Volcano Grey Metallic",Black,"Wall Township, NJ",Porsche,Macan,11579,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,0,0,1,0,0,38995
+Black,Black,"New York, NY",Porsche,Macan,5803,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,52995
+"Volcano Gray Metallic",Black,"Larchmont, NY",Porsche,Macan,36215,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65494
+Black,Black,"Wallingford, CT",Porsche,Macan,37105,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,0,0,0,1,1,33900
+"Moonlight Blue Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Cayenne,46661,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,48267
+"Carmine Red",Black,"East Hartford, CT",Porsche,911,12171,"Targa 4S",2017,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,127174
+Black,Black,"Mountain Lakes, NJ",Porsche,911,66898,"Carrera Cabriolet",2013,"3.4L Flat-6 Gas",0,2,1,0,0,0,0,53197
+"Dark Blue Metallic","Luxor Beige","Point Pleasant, NJ",Porsche,Cayenne,105016,"Turbo AWD",2011,"4.8L V-8 Gas Turbocharged",0,3,1,0,0,0,0,27995
+White,Unknown,"Verona, NJ",Porsche,Cayenne,71069,"Diesel AWD",2015,"3.0L V-6 Diesel Turbocharged",0,2,1,0,0,0,0,34495
+Unknown,Black,"Edison, NJ",Porsche,Macan,23373,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,66900
+"Volcano Grey Metallic","Agate Grey/Pebble Grey","Huntington Station, NY",Porsche,Macan,38898,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42900
+Silver,Brown,"Wallingford, CT",Porsche,911,20778,"Carrera S",2016,"3.8L Flat-6 Gas",1,2,0,0,0,1,1,68900
+"Agate Grey Metallic",Black,"Jamaica, NY",Porsche,Macan,36361,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,44230
+Black,Black,"New York, NY",Porsche,Cayenne,22835,"GTS AWD",2017,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995
+"Basalt Black Metallic",Black,"Wantagh, NY",Porsche,Panamera,10990,Turbo,2012,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,65995
+White,Black,"Hillside, NJ",Porsche,Cayenne,41573,"GTS AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,64695
+"Carrara White Metallic",Black,"Lodi, NJ",Porsche,911,41591,"Carrera S",2017,"3.0L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,82895
+Black,"Black/Luxor Beige","Larchmont, NY",Porsche,Panamera,37627,RWD,2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65991
+Black,"Carrera Red","Huntington, NY",Porsche,911,56916,"Carrera 4S",2010,"3.8L Flat-6 Gas",0,3,1,0,0,0,0,57995
+Black,Black,"Floral Park, NY",Porsche,911,10495,Turbo,2019,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,179000
+"Dark Blue Metallic","Agate Gray/Lime Gold","Medford, NY",Porsche,Boxster,11404,Roadster,2014,"2.7L Flat-6 Gas",0,1,1,0,0,0,0,42990
+Black,Black,"Old Bridge, NJ",Porsche,Cayenne,21117,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,2,1,0,0,0,0,48995
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Macan,13010,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995
+Black,Black,"New York, NY",Porsche,Macan,5076,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,52995
+Blue,Beige,"Medford, NY",Porsche,Cayenne,14715,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,53990
+"Volcano Grey Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Macan,59867,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,45599
+Unknown,Unknown,"Long Island City, NY",Porsche,Cayenne,40634,"Turbo S AWD",2016,"4.8L V-8 Gas Turbocharged",0,3,1,0,0,0,0,NULL
+"Biscay Blue Metallic","Slate Gray/Mojave Beige","Larchmont, NY",Porsche,Cayenne,31197,"Turbo AWD",2019,"4.0L V-8 Gas Turbocharged",0,1,1,0,0,0,0,109995
+"Mahogany Metallic","Truffle Brown","New York, NY",Porsche,Cayenne,30880,"Turbo AWD",2019,"4.0L V-8 Gas Turbocharged",0,1,1,0,0,0,0,109995
+"Night Blue Metallic",Black,"New York, NY",Porsche,Macan,35592,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995
+Blue,Tan,"Brooklyn, NY",Porsche,Cayenne,129237,"Tiptronic AWD",2011,"3.6L V-6 Gas",1,3,1,0,0,0,0,15950
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Macan,40324,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,46995
+Black,Black,"Great Neck, NY",Porsche,911,22611,"Turbo Cabriolet",2015,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,112000
+"Carrara White Metallic",Black,"New York, NY",Porsche,Macan,5221,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52995
+Black,Tan,"Woodbridge, NJ",Porsche,Macan,20131,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,44995
+"Jet Black Metallic","Luxor Beige","Hillside, NJ",Porsche,Cayenne,66448,"GTS AWD",2013,"4.8L V-8 Gas",1,4,1,0,0,0,0,32695
+"Rhodium Silver Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Cayenne,37900,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,49838
+Black,Black,"East Hartford, CT",Porsche,Macan,36951,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,38451
+White,Black,"East Hartford, CT",Porsche,Cayman,34010,Coupe,2015,"2.7L Flat-6 Gas",1,2,1,0,0,0,0,42995
+White,Black,"Paterson, NJ",Porsche,Cayenne,143471,"S AWD",2012,"4.8L V-8 Gas",1,2,1,0,0,0,0,18495
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,2182,"SUV AWD",2021,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,70050
+Blue,Gray,"Naugatuck, CT",Porsche,911,6200,"Turbo S Cabriolet",2017,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,159995
+Blue,Gray,"Naugatuck, CT",Porsche,911,6200,"Turbo S Cabriolet",2017,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,159995
+Black,Black,"Red Bank, NJ",Porsche,Cayenne,59724,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,43995
+"Night Blue Meta",Tan,"Wallingford, CT",Porsche,Panamera,19000,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,0,0,0,1,1,63900
+Black,Unknown,"Verona, NJ",Porsche,Panamera,102185,"Platinum Edition",2013,"3.6L V-6 Gas",0,4,1,0,0,0,0,27777
+Unknown,Black,"Edison, NJ",Porsche,911,4190,"Carrera GTS Cabriolet",2019,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,149900
+Gray,Black,"Hillside, NJ",Porsche,Cayenne,85018,"Turbo AWD",2013,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,35900
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,39123,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,3,1,0,0,0,0,49900
+White,Black,"Parsippany, NJ",Porsche,Cayenne,48411,"S E-Hybrid Platinum Edition AWD",2017,"3.0L V-6 Plug-In Hybrid Supercharged",1,3,1,0,0,0,0,42495
+"Volcano Grey Metallic",Black,"Bridgeport, CT",Porsche,Macan,24820,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,3,1,0,0,0,0,57900
+Unknown,Unknown,"New York, NY",Porsche,Cayenne,4969,"S SUV AWD",2020,"2.9L V-6 Gas Turbocharged",0,0,1,0,0,0,0,98860
+Silver,Black,"Hasbrock Heights, NJ",Porsche,911,18828,"Turbo S Cabriolet",2012,"3.8L Flat-6 Gas Turbocharged",0,4,1,0,0,0,0,102495
+Unknown,Black,"Edison, NJ",Porsche,911,4774,"Carrera 4 Coupe",2020,"3.0L Flat-6 Gas Turbocharged",0,0,1,0,0,0,0,128400
+"Agate Gray Metallic",Black,"Lodi, NJ",Porsche,911,35822,Carrera,2014,"3.4L Flat-6 Gas",1,3,1,0,0,0,0,61895
+Unknown,Unknown,"Ocean, NJ",Porsche,Macan,28502,AWD,2018,"2.0L Inline-4 Gas Turbocharged",3,1,1,0,0,0,0,38905
+White,Black,"Rahway, NJ",Porsche,Cayenne,90389,"Diesel AWD",2013,"3.0L V-6 Diesel Turbocharged",2,2,1,0,0,0,0,25900
+Black,Black,"Inwood, NY",Porsche,911,16304,"Turbo S Cabriolet",2014,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,129900
+"Jet Black Metallic","Black/Luxor Beige","New York, NY",Porsche,Macan,29216,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,53995
+"Miami Blue",Black,"East Hartford, CT",Porsche,Macan,3560,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,55504
+Black,Black,"New York, NY",Porsche,Cayenne,8741,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,72995
+Black,Tan,"Red Bank, NJ",Porsche,Panamera,31048,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",1,2,1,0,0,0,0,64995
+"Meteor Gray Metallic",Black,"Red Bank, NJ",Porsche,Cayenne,75366,"Diesel AWD",2015,"3.0L V-6 Diesel Turbocharged",0,3,1,0,0,0,0,35995
+"Gt Silver Metallic",Black,"East Hartford, CT",Porsche,Panamera,25449,"4S AWD",2017,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,82995
+White,Black,"Hillside, NJ",Porsche,Cayenne,42253,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,55695
+"Volcano Gray Metallic",Black,"Watchung, NJ",Porsche,Macan,25344,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42999
+Black,Black,"East Hartford, CT",Porsche,Macan,7220,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,55290
+White,Black,"Rahway, NJ",Porsche,Cayenne,59657,"GTS AWD",2014,"4.8L V-8 Gas",1,1,1,0,0,0,0,37900
+Black,Black,"Wall Township, NJ",Porsche,Macan,13466,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,1,0,0,0,39995
+"Jet Black Metallic","Saddle Brown/Luxor Beige","Wall Township, NJ",Porsche,Macan,12594,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",1,1,1,1,0,0,0,59995
+Black,Black,"Nanuet, NY",Porsche,Macan,34650,"S AWD",2016,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,40595
+White,"Luxor Beige","South Amboy, NJ",Porsche,Panamera,29651,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,61450
+"Racing Yellow",Black,"New York, NY",Porsche,"718 Boxster",6087,"S Roadster",2019,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,77995
+Unknown,Black,"Edison, NJ",Porsche,Macan,25229,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,51900
+"Carmine Red",Black,"New York, NY",Porsche,Panamera,6921,"4 E-Hybrid AWD",2018,"2.9L V-6 Plug-In Hybrid Turbocharged",0,1,1,0,0,0,0,86995
+"Meteor Grey Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,23478,AWD,2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,48900
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Macan,4423,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,54995
+"Sapphire Blue Metallic",Unknown,"Brooklyn, NY",Porsche,911,12587,GT3,2018,"4.0L Flat-6 Gas",0,2,1,0,0,0,0,198237
+Black,Black,"New York, NY",Porsche,Panamera,15025,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,73500
+Gray,Tan,"Mahwah, NJ",Porsche,911,19500,"Carrera S Cabriolet",2013,"3.8L Flat-6 Gas",0,2,1,0,0,0,0,79651
+White,Unknown,"Rahway, NJ",Porsche,Taycan,3766,Turbo,2020,"L - Electric",0,0,1,0,0,0,0,139700
+"Jet Black Metallic",Black,"East Hartford, CT",Porsche,Cayenne,32947,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,0,0,0,0,1,65899
+White,"Luxor Beige","Hillside, NJ",Porsche,Panamera,83277,4,2016,"3.6L V-6 Gas",0,2,1,0,0,0,0,38795
+"Volcano Gray Metallic","Garnet Red/Black","Hartford, CT",Porsche,Macan,33549,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,63000
+Black,Black,"Huntington, NY",Porsche,911,113467,"Carrera Cabriolet 991",2012,"3.6L Flat-6 Gas",0,3,1,0,0,0,0,49995
+"Night Blue Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Macan,49340,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65205
+Black,Black,"Great Neck, NY",Porsche,Cayenne,29045,AWD,2018,"3.6L V-6 Gas Turbocharged",1,1,1,0,0,0,0,44495
+"Jet Black Metallic","Black/Garnet Red","Spring Valley, NY",Porsche,Cayenne,14950,"Turbo AWD",2018,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,89975
+Black,Black,"Medford, NY",Porsche,Cayman,42028,Coupe,2014,"2.7L Flat-6 Gas",0,6,1,0,0,0,0,39990
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Cayenne,10243,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,70995
+Black,Unknown,"Verona, NJ",Porsche,Cayenne,101379,"Turbo AWD",2014,"4.8L V-8 Gas Turbocharged",0,2,1,0,0,0,0,38800
+Black,Black,"Lodi, NJ",Porsche,Cayenne,78580,"Tiptronic AWD",2014,"3.6L V-6 Gas",0,1,1,0,0,0,0,23895
+Black,Black,"Medford, NY",Porsche,Cayenne,82609,"Tiptronic AWD",2012,"3.6L V-6 Gas",0,2,1,0,0,0,0,23990
+"Jet Black Metallic","Truffle Brown","Yonkers, NY",Porsche,Cayenne,12401,"Turbo AWD",2019,"4.0L V-8 Gas Turbocharged",0,2,1,0,0,0,0,129989
+"Sapphire Blue Metallic","Black/Luxor Beige","Hillside, NJ",Porsche,Panamera,52441,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,58795
+Black,Black,"Mountain Lakes, NJ",Porsche,Cayenne,104070,"Tiptronic AWD",2012,"3.6L V-6 Gas",0,2,1,0,0,0,0,16849
+Black,Unknown,"Norwalk, CT",Porsche,Panamera,92931,Turbo,2010,"4.8L V-8 Gas Turbocharged",0,2,1,0,0,0,0,35000
+"Dolomite Silver Metallic",Black,"Huntington Station, NY",Porsche,Taycan,27,Turbo,2020,"L - Electric",0,1,1,0,0,0,0,185000
+"Meteor Gray Metallic",Black,"Ramsey, NJ",Porsche,Cayenne,84197,"Manual AWD",2014,"3.6L V-6 Gas",0,2,1,0,0,0,0,23090
+Unknown,Black,"Edison, NJ",Porsche,911,3004,"Carrera 4S Coupe",2020,"3.0L Flat-6 Gas Turbocharged",0,0,1,0,0,0,0,151900
+"Jet Black Metallic",Black,"Hillside, NJ",Porsche,Panamera,66667,"S E-Hybrid",2015,"3.0L V-6 Hybrid Supercharged",1,2,1,0,0,0,0,36795
+"Moonlight Blue Metallic","Truffle Brown","New York, NY",Porsche,Cayenne,4274,"S SUV AWD",2020,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,96995
+Black,Black,"Great Neck, NY",Porsche,911,18296,"Turbo S",1997,"3.6L Flat-6 Gas Turbocharged",0,4,1,0,0,0,0,450000
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,4408,"Turbo SUV AWD",2020,"4.0L V-8 Gas Turbocharged",0,1,1,0,0,0,0,127888
+"Jet Black Metallic",Black,"Yonkers, NY",Porsche,911,5868,"Turbo Cabriolet",2017,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,143850
+Black,Black,"Rahway, NJ",Porsche,Macan,59937,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,3,1,0,0,0,0,35900
+Bronze,Beige,"Garfield, NJ",Porsche,Cayenne,81748,"Tiptronic AWD",2013,"3.6L V-6 Gas",0,2,1,0,0,0,0,21995
+Black,Black,"Brooklyn, NY",Porsche,Cayenne,101605,"Tiptronic AWD",2008,"3.6L V-6 Gas",1,2,1,0,0,0,0,12450
+Gray,Gray,"Wallingford, CT",Porsche,911,40611,"Carrera Cabriolet Tiptronic",2004,"3.6L Flat-6 Gas",1,3,0,0,0,1,0,25900
+"Basalt Black Metallic","Luxor Beige","Lodi, NJ",Porsche,Panamera,72353,4,2012,"3.6L V-6 Gas",1,2,1,0,0,0,0,31895
+"Classic Silver Metallic",Black,"Wall Township, NJ",Porsche,Cayenne,96485,"GTS AWD",2014,"4.8L V-8 Gas",0,2,1,0,0,0,0,34995
+"Saffron Yellow Metallic",Black,"New York, NY",Porsche,911,561,"Turbo S",2018,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,289500
+Blue,Black,"Bergenfield, NJ",Porsche,Panamera,70051,4,2011,"3.6L V-6 Gas",0,1,1,0,0,0,0,34995
+White,Blue,"Hillside, NJ",Porsche,911,12750,"Turbo S",2017,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,139995
+Unknown,"Agate Grey","Edison, NJ",Porsche,Macan,25833,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,45900
+White,Umber/Cream,"Hillside, NJ",Porsche,Cayenne,99156,"S Hybrid AWD",2013,"3.0L V-6 Hybrid Supercharged",0,4,1,0,0,0,0,21795
+Black,Black,"Manasquan, NJ",Porsche,Boxster,19727,S,2011,"3.4L Flat-6 Gas",1,5,1,0,0,0,0,51900
+"Aqua Blue Metallic","Agate Grey","Jersey City, NJ",Porsche,Boxster,97573,Roadster,2013,"2.7L Flat-6 Gas",0,1,1,0,0,0,0,28980
+Silver,Black,"Parsippany, NJ",Porsche,911,75628,"Turbo S Cabriolet",2005,"3.6L Flat-6 Gas Turbocharged",2,4,1,0,0,0,0,47995
+Black,Black,"Medford, NY",Porsche,Cayman,19241,Coupe,2009,"2.9L Flat-6 Gas",0,3,1,0,0,0,0,28990.0
+"Crystal Silver Metallic","Black W/Alcantara","Huntington, NY",Porsche,Cayenne,81356,"GTS Tiptronic AWD",2010,"4.8L V-8 Gas",0,3,1,0,0,0,0,19995.0
+Black,Black,"Brooklyn, NY",Porsche,Cayenne,45210,"S AWD",2004,"4.5L V-8 Gas Turbocharged",0,3,1,0,0,0,0,10950.0
+Black,Gray,"Brooklyn, NY",Porsche,Cayenne,153510,"S Tiptronic AWD",2006,"4.5L V-8 Gas",1,4,1,0,0,0,0,5950.0
+Gray,Gray,"Wallingford, CT",Porsche,911,40611,"Carrera Cabriolet Tiptronic",2004,"3.6L Flat-6 Gas",1,3,0,0,0,1,0,25900.0
+White,Tan,"Commack, NY",Porsche,Macan,29830,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,37595.0
+Black,Black,"Medford, NY",Porsche,Panamera,25308,Turbo,2014,"4.8L V-8 Gas Turbocharged",0,2,1,0,0,0,0,58990.0
+"Carrara White Metallic",Tan,"Jamaica, NY",Porsche,Macan,44192,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,42750.0
+Black,Black,"Huntington, NY",Porsche,Macan,50452,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,31995.0
+Black,Other,"Medford, NY",Porsche,Panamera,79301,4,2014,"3.6L V-6 Gas",0,2,1,0,0,0,0,33590.0
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,"718 Cayman",21437,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,47980.0
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,Macan,54044,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,29980.0
+Black,Black,"Jamaica, NY",Porsche,Macan,26220,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,36480.0
+"Volcano Gray Metallic","Garnet Red/Black","Hartford, CT",Porsche,Macan,33549,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,60000.0
+Silver,Black,"Medford, NY",Porsche,Panamera,54670,Hatchback,2014,"3.6L V-6 Gas",0,2,1,0,0,0,0,36990.0
+"Jet Black Metallic",Brown,"Jamaica, NY",Porsche,Macan,38555,"Turbo AWD",2015,"3.6L V-6 Gas Turbocharged",0,2,1,0,0,0,0,42750.0
+"Agate Grey Metallic",Black,"New York, NY",Porsche,911,13437,"Carrera 4 GTS Cabriolet",2018,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,126500.0
+White,"Agate Grey","New Rochelle, NY",Porsche,Macan,16943,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,48595.0
+Black,Black,"Jamaica, NY",Porsche,Macan,43305,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,36999.0
+White,Black,"Medford, NY",Porsche,Cayman,17149,Coupe,2015,"2.7L Flat-6 Gas",0,2,1,0,0,0,0,44990.0
+"Rhodium Silver Metallic",Black,"Berlin, CT",Porsche,Macan,29254,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,37000.0
+"Volcano Grey Metallic","8-Way Power Seats","Verona, NJ",Porsche,Macan,13655,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40300.0
+Black,"Cinnamon Brown","Massapequa, NY",Porsche,Boxster,79012,Manual,2002,"2.7L Flat-6 Gas",0,7,1,0,0,0,0,13985.0
+White,Black,"Jamaica, NY",Porsche,Macan,38070,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,49730.0
+"Seal Grey Metallic",Black,"Huntington Station, NY",Porsche,Boxster,26759,S,2006,"3.2L Flat-6 Gas",0,1,1,0,0,0,0,27500.0
+White,Other,"Medford, NY",Porsche,Cayenne,13808,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,63990.0
+White,Black,"Larchmont, NY",Porsche,Cayenne,19895,AWD,2019,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,61595.0
+"Carrara White Metallic",Black,"Larchmont, NY",Porsche,Cayenne,44176,"S E-Hybrid Platinum Edition AWD",2017,"3.0L V-6 Plug-In Hybrid Supercharged",0,1,1,0,0,0,0,48991.0
+Black,Black,"Larchmont, NY",Porsche,Macan,10855,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,43995.0
+Unknown,"Black/Luxor Beige","Edison, NJ",Porsche,Macan,30945,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40400.0
+"Carmine Red",Unknown,"Greenvale, NY",Porsche,Macan,11984,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,39955.0
+Gy,Black,"New York, NY",Porsche,Macan,3311,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,50995.0
+Black,"Black/Garnet Red","New York, NY",Porsche,Cayenne,41722,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,43995.0
+"Jet Black Metallic",Black,"Jamaica, NY",Porsche,Macan,28436,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,42230.0
+"Agate Grey Metallic",Black,"Huntington Station, NY",Porsche,Macan,29331,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,49900.0
+"Guards Red","Black/Bordeaux Red","New York, NY",Porsche,911,7312,Turbo,2017,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,133995.0
+Black,Black,"Jamaica, NY",Porsche,Macan,14536,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42480.0
+Black,"Saddle Brown","Verona, NJ",Porsche,Macan,20318,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,47700.0
+"Carrara White","Natural Brown","Union City, NJ",Porsche,911,49995,"Turbo Cabriolet",2008,"3.6L Flat-6 Gas Turbocharged",0,5,1,0,0,0,0,57995.0
+White,Black,"Huntington Station, NY",Porsche,Cayenne,6616,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67900.0
+"Rhodium Silver Metallic",Black,"Larchmont, NY",Porsche,Macan,39664,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,36493.0
+Blue,Grey,"Elizabeth, NJ",Porsche,Panamera,135258,S,2012,"4.8L V-8 Gas",0,2,1,0,0,0,0,22995.0
+"Dolomite Silver Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,4661,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68900.0
+White,Black,"Jamaica, NY",Porsche,Cayenne,37034,AWD,2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,40230.0
+"Purpurite Metallic",Black,"Inwood, NY",Porsche,Cayenne,61825,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,37999.0
+"Jet Black Metallic",Black,"Bronx, NY",Porsche,Cayenne,20665,"Platinum Edition AWD",2018,"3.6L V-6 Gas",1,1,1,0,0,0,0,45595.0
+Black,Black,"Huntington, NY",Porsche,Cayenne,96595,"GTS AWD",2016,"3.6L V-6 Gas Turbocharged",0,2,1,0,0,0,0,35995.0
+"Night Blue Metallic",Black,"Bronx, NY",Porsche,Macan,72998,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,30790.0
+Black,Black,"Bergenfield, NJ",Porsche,Cayman,112675,S,2007,"3.4L Flat-6 Gas",0,5,1,0,0,0,0,19995.0
+Black,Brown,"Elizabeth, NJ",Porsche,Panamera,113837,4S,2010,"4.8L V-8 Gas",1,6,1,0,0,0,0,21995.0
+"Night Blue Metallic","Black/Luxor Beige","New York, NY",Porsche,911,47631,"Carrera 4 Cabriolet",2018,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,85995.0
+White,Brown,"Medford, NY",Porsche,Panamera,9816,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,73990.0
+"Carrara White Metallic","Saddle Brown/Luxor Beige","New York, NY",Porsche,Cayenne,102,"Turbo AWD",2018,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,99500.0
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,15219,AWD,2019,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,61900.0
+White,Black,"New York, NY",Porsche,Cayenne,5989,"S AWD",2019,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,80995.0
+Black,Red,"Medford, NY",Porsche,Cayenne,22868,"S AWD",2019,"2.9L V-6 Gas Turbocharged",0,2,1,0,0,0,0,76590.0
+Black,Black,"New York, NY",Porsche,Macan,47240,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,55995.0
+"Matte Gray",White,"Westbury, NY",Porsche,Macan,36815,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,53900.0
+"Dark Blue",Tan,"Ridgewood, NY",Porsche,Cayenne,98957,"Tiptronic AWD",2013,"3.6L V-6 Gas",0,1,1,0,0,0,0,16995.0
+"Rhodium Silver Metallic","Saddle Brown","Verona, NJ",Porsche,Macan,28965,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,46111.0
+"Rhodium Silver Metallic",Black,"New York, NY",Porsche,911,7523,Carrera,2018,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,90995.0
+Black,Espresso,"Mountain Lakes, NJ",Porsche,Cayenne,41080,AWD,2016,"3.6L V-6 Gas",1,2,1,0,0,0,0,28348.0
+White,Black,"Medford, NY",Porsche,Macan,39511,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,47990.0
+"Rhodium Silver Metallic",Black,"Huntington Station, NY",Porsche,Macan,34515,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,37900.0
+"Dolomite Silver Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,6826,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68900.0
+Unknown,Black,"Edison, NJ",Porsche,Macan,24240,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,43000.0
+White,"Black/Garnet Red","Huntington Station, NY",Porsche,Macan,33456,"Turbo AWD with Performance Package",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69900.0
+"Jet Black Metallic",Black,"Avenel, NJ",Porsche,Macan,14629,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,55740.0
+Black,Black,"Paterson, NJ",Porsche,Cayenne,143189,"S AWD",2009,"4.8L V-8 Gas",3,3,1,0,0,0,0,8488.0
+Black,Black,"Hillside, NJ",Porsche,Panamera,17849,"4 E-Hybrid AWD",2018,"2.9L V-6 Plug-In Hybrid Turbocharged",1,1,1,0,0,0,0,68395.0
+Silver,Black,"Medford, NY",Porsche,Cayenne,29063,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,46590.0
+Black,Black,"Jamaica, NY",Porsche,Cayenne,26983,AWD,2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,43900.0
+"Night Blue Metallic",Gray,"Medford, NY",Porsche,Macan,26501,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,38590.0
+"Volcano Gray Metallic",Black,"Larchmont, NY",Porsche,Macan,36215,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,64995.0
+"Yachting Blue Metallic",Black,"Medford, NY",Porsche,Panamera,38325,GTS,2015,"4.8L V-8 Gas",0,1,1,0,0,0,0,59590.0
+White,Brown,"Medford, NY",Porsche,Macan,6212,"S AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67990.0
+Black,Black,"Elmsford, NY",Porsche,Cayenne,29955,AWD,2016,"3.6L V-6 Gas",0,2,1,0,0,0,0,36485.0
+Black,Black,"Medford, NY",Porsche,Macan,48104,"Turbo AWD",2017,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50990.0
+Unknown,Black,"Verona, NJ",Porsche,911,27387,"Carrera 4S",2017,"3.0L Flat-6 Gas Turbocharged",1,1,1,0,0,0,0,87499.0
+"Dark Blue Metallic",Black,"Secaucus, NJ",Porsche,Macan,46144,"S AWD",2016,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,35686.0
+White,Black,"Medford, NY",Porsche,Cayenne,68979,"S AWD",2013,"4.8L V-8 Gas",0,2,1,0,0,0,0,28990.0
+"Meteor Gray Metallic","Havanna/Sand Beige","Stratford, CT",Porsche,Cayenne,98305,"Tiptronic AWD",2009,"3.6L V-6 Gas",1,5,1,0,0,0,0,10809.0
+"Jet Black Metallic","Luxor Beige","South Amboy, NJ",Porsche,Cayenne,43177,"Platinum Edition AWD",2017,"3.6L V-6 Gas",1,1,1,0,0,0,0,35450.0
+"Agate Gray Metallic",Black,"Hillside, NJ",Porsche,Macan,85553,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,25777.0
+White,"Black/Luxor Beige","Larchmont, NY",Porsche,"718 Boxster",9952,Roadster,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,57091.0
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,4761,"Coupe AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,77995.0
+Black,Black,"New York, NY",Porsche,Cayenne,47540,"S Hybrid AWD",2014,"3.0L V-6 Hybrid Supercharged",0,2,1,0,0,0,0,27774.0
+Burgundy,"Saddle Brown/Luxor Beige","Medford, NY",Porsche,Macan,12382,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52990.0
+Gy,Black,"New York, NY",Porsche,Cayenne,4839,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69995.0
+"Jet Black Metallic","Black/Cohiba Brown","Bronx, NY",Porsche,Cayenne,64953,"S AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,42995.0
+"Volcano Grey Metallic",Black,"Larchmont, NY",Porsche,Macan,4283,"S AWD",2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,62995.0
+"Racing Yellow",Black,"New York, NY",Porsche,911,3635,"Carrera 4S Cabriolet",2019,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,127995.0
+Unknown,Unknown,"Verona, NJ",Porsche,Panamera,6512,"4 E-Hybrid AWD",2019,"2.9L V-6 Plug-In Hybrid Turbocharged",0,2,1,0,0,0,0,86555.0
+"Moonlight Blue Metallic","Slate Grey","New York, NY",Porsche,Cayenne,1014,AWD,2019,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,69500.0
+"Sapphire Blue Metallic","Saddle Brown/Luxor Beige","Hillside, NJ",Porsche,Panamera,20169,"4S AWD",2018,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,73333.0
+"Rhodium Silver Metallic",Black,"Larchmont, NY",Porsche,Cayenne,31290,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47491.0
+"Jet Black Metallic",Black,"Lodi, NJ",Porsche,Macan,80493,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,28895.0
+White,Beige,"Medford, NY",Porsche,Macan,34849,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42590.0
+Chalk,Black,"Staten Island, NY",Porsche,911,7562,"Turbo S",2018,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,173999.0
+"Moonlight Blue Metallic","Black/Luxor Beige","Larchmont, NY",Porsche,Cayenne,35510,"S AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,58492.0
+White,Unknown,"Verona, NJ",Porsche,Cayenne,2439,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69200.0
+White,Tan,"Jamaica, NY",Porsche,Macan,23365,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,49220.0
+White,"Luxor Beige","Freeport, NY",Porsche,Cayenne,40589,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,42990.0
+"Volcano Gray Metallic",Black,"East Hartford, CT",Porsche,Panamera,43548,RWD,2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,63949.0
+"Carrara White Metallic","Black/Luxor Beige","Larchmont, NY",Porsche,Macan,18977,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,54998.0
+"Volcano Grey Metallic",Black,"East Hartford, CT",Porsche,Macan,9056,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,52496.0
+"Gt Silver Metallic",Black,"New York, NY",Porsche,"718 Cayman",23,"GTS Coupe",2019,"2.5L Flat-4 Gas Turbocharged",0,0,1,0,0,0,0,85995.0
+"Dark Blue Metallic",Unknown,"Newark, NJ",Porsche,Cayenne,127742,"Turbo AWD",2013,"4.8L V-8 Gas Turbocharged",1,2,1,0,0,0,0,25995.0
+Black,Brown,"Naugatuck, CT",Porsche,Cayenne,62800,"GTS AWD",2013,"4.8L V-8 Gas",1,2,1,0,0,0,0,31495.0
+Blk,Black,"New York, NY",Porsche,Macan,5076,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,52995.0
+White,Black,"Saint James, NY",Porsche,911,19300,Carrera,2017,"3.0L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,83899.0
+White,Brown,"Medford, NY",Porsche,Macan,39968,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,44590.0
+"Miami Blue",Black,"New York, NY",Porsche,"718 Boxster",20440,"S Roadster",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,66995.0
+"Rhodium Silver Metallic",Black,"Hillside, NJ",Porsche,Cayenne,63396,AWD,2016,"3.6L V-6 Gas",1,3,1,0,0,0,0,29555.0
+"Jet Black Metallic","Luxor Beige","Hillside, NJ",Porsche,Cayenne,66448,"GTS AWD",2013,"4.8L V-8 Gas",1,4,1,0,0,0,0,32444.0
+"Agate Grey Metallic",Black,"New York, NY",Porsche,911,29273,"Carrera S Cabriolet",2017,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,93995.0
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Taycan,3131,Turbo,2020,"L - Electric",0,1,1,0,0,0,0,148800.0
+Gy,Black,"New York, NY",Porsche,Macan,4540,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,53995.0
+Bk,Black,"New York, NY",Porsche,Macan,5803,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,52995.0
+"Jet Black Metallic",Black,"Wall Township, NJ",Porsche,Cayman,27842,"S Coupe",2017,"2.5L Flat-4 Gas Turbocharged",1,2,1,0,0,0,0,49995.0
+"Jet Black Metallic",Black,"Wall Township, NJ",Porsche,Cayman,27842,"S Coupe",2017,"2.5L Flat-4 Gas Turbocharged",1,2,1,0,0,0,0,49995.0
+"Carrara White Metallic",Black,"South Amboy, NJ",Porsche,Cayenne,41455,"S E-Hybrid Platinum Edition AWD",2018,"3.0L V-6 Plug-In Hybrid Supercharged",1,1,1,0,0,0,0,49990.0
+"Agate Grey Metallic",Tan,"Jamaica, NY",Porsche,Panamera,16418,"4 E-Hybrid AWD",2018,"2.9L V-6 Plug-In Hybrid Turbocharged",0,1,1,0,0,0,0,72980.0
+"Carmine Red",Black,"Union, NJ",Porsche,"718 Cayman",16652,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,2,1,0,0,0,0,50999.0
+Black,Black,"Larchmont, NY",Porsche,Panamera,20239,"4 E-Hybrid AWD",2018,"2.9L V-6 Plug-In Hybrid Turbocharged",0,1,1,0,0,0,0,79995.0
+"Jet Black Metallic",Black,"Larchmont, NY",Porsche,911,17049,"Carrera S",2015,"3.8L Flat-6 Gas",0,2,1,0,0,0,0,83991.0
+"Night Blue Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Macan,48310,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,35599.0
+Unknown,Unknown,"Edison, NJ",Porsche,Boxster,46727,S,2013,"3.4L Flat-6 Gas",0,1,1,0,0,0,0,43900.0
+Black,Black,"Great Neck, NY",Porsche,Cayenne,29045,AWD,2018,"3.6L V-6 Gas Turbocharged",1,1,1,0,0,0,0,44495.0
+White,Black,"Huntington Station, NY",Porsche,Cayenne,4394,"E-Hybrid AWD",2020,"3.0L V-6 Plug-In Hybrid Supercharged",0,1,1,0,0,0,0,82900.0
+Wt,Black,"New York, NY",Porsche,Macan,3119,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,53995.0
+Bk,Black,"New York, NY",Porsche,Cayenne,22835,"GTS AWD",2017,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995.0
+Unknown,Black,"Edison, NJ",Porsche,"718 Cayman",7344,"S Coupe",2019,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,69900.0
+Black,"Slate Grey","New York, NY",Porsche,Cayenne,5235,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995.0
+"Racing Yellow",Espresso/Cognac,"New York, NY",Porsche,911,16365,"Carrera 4S",2018,"3.0L Flat-6 Gas Turbocharged",0,1,0,0,0,0,1,110995.0
+"Miami Blue",Black,"New York, NY",Porsche,Macan,2141,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,54995.0
+"Jet Black Metallic",Black,"Hillside, NJ",Porsche,Panamera,66667,"S E-Hybrid",2015,"3.0L V-6 Hybrid Supercharged",1,2,1,0,0,0,0,36555.0
+"Polar Silver Metallic",Black,"Morristown, NJ",Porsche,Boxster,38940,"2dr Roadster Tiptronic",2002,"2.7L Flat-6 Gas",0,7,1,0,0,0,0,15995.0
+Black,Black,"Elmwood Park, NJ",Porsche,Macan,28958,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,34295.0
+"Moonlight Blue Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,17143,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65900.0
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,4570,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65900.0
+Unknown,Unknown,"Greenvale, NY",Porsche,Cayman,11234,S,2016,"3.4L Flat-6 Gas",0,1,1,0,0,0,0,57995.0
+"Volcano Grey Metallic",Black,"Bridgeport, CT",Porsche,Macan,24820,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,3,1,0,0,0,0,57900.0
+"Night Blue Metallic","Garnet Red/Black","New York, NY",Porsche,Macan,13591,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65995.0
+"Volcano Grey Metallic","Agate Grey","East Hartford, CT",Porsche,Macan,48155,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,40599.0
+White,Black,"Hillside, NJ",Porsche,Cayenne,41573,"GTS AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,63333.0
+"Dark Blue Metallic",Unknown,"Smithtown, NY",Porsche,Boxster,28000,Roadster,2015,"2.7L Flat-6 Gas",0,2,1,0,0,0,0,NULL
+Sliver,Black,"New York, NY",Porsche,Cayenne,20169,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,54995.0
+"Night Blue Metallic","Black/Garnet Red","New York, NY",Porsche,Macan,26865,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,57995.0
+"Dark Blue Metallic","Umber/Light Tartufo","Hillside, NJ",Porsche,Cayenne,93077,"GTS AWD",2013,"4.8L V-8 Gas",0,3,1,0,0,0,0,27777.0
+"Night Blue Metallic",Black,"Larchmont, NY",Porsche,Macan,7649,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,53995.0
+"Sand White",Brown,"North Plainfield, NJ",Porsche,Cayenne,89884,"Turbo AWD",2011,"4.8L V-8 Gas Turbocharged",0,0,1,0,0,0,0,27900.0
+White,Black,"New York, NY",Porsche,Taycan,1813,4S,2020,"L - Electric",0,1,1,0,0,0,0,116500.0
+Black,Black,"Larchmont, NY",Porsche,Cayenne,17543,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,55995.0
+"Guards Red",Black,"Larchmont, NY",Porsche,911,26430,"Carrera 4S",2016,"3.8L Flat-6 Gas",0,2,1,0,0,0,0,90494.0
+"Dark Blue Metallic",Espresso,"Huntington Station, NY",Porsche,Macan,50454,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,35900.0
+Unknown,"Luxor Beige","Edison, NJ",Porsche,Cayenne,15704,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52480.0
+"Sapphire Blue Metallic","Agate Gray","Hartford, CT",Porsche,Panamera,38286,Hatchback,2015,"3.6L V-6 Gas",1,1,1,0,0,0,0,40900.0
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,4982,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995.0
+Unknown,"Black/Luxor Beige","Ocean, NJ",Porsche,Cayenne,30385,"Platinum Edition AWD",2018,"3.6L V-6 Gas",1,1,1,0,0,0,0,44905.0
+"Seal Grey Metallic",Black,"Massapequa, NY",Porsche,Boxster,54058,S,2005,"3.2L Flat-6 Gas",0,4,1,0,0,0,0,23985.0
+Black,"Agate Grey","Huntington Station, NY",Porsche,Panamera,44319,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68900.0
+Black,Black,"New York, NY",Porsche,Macan,17598,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+"Agate Grey Metallic",Unknown,"Lodi, NJ",Porsche,Macan,54000,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,31777.0
+Gy,Black,"New York, NY",Porsche,Macan,4423,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,54995.0
+Black,Black,"Medford, NY",Porsche,Macan,35425,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,3,1,0,0,0,0,39590.0
+Gy,Black,"Huntington Station, NY",Porsche,Macan,31368,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,59900.0
+Blue,Gray,"Naugatuck, CT",Porsche,911,6200,"Turbo S Cabriolet",2017,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,159995.0
+White,Black,"Huntington Station, NY",Porsche,Cayenne,7632,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68900.0
+Black,Black,"Harriman, NY",Porsche,Panamera,24801,4,2016,"3.6L V-6 Gas",0,1,1,0,0,0,0,49999.0
+Unknown,Black,"Edison, NJ",Porsche,Taycan,1476,4S,2020,"L - Electric",0,1,1,0,0,0,0,116900.0
+"Volcano Gray Metallic","Black/Garnet Red","Larchmont, NY",Porsche,Macan,23020,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,44995.0
+Gy,Black,"New York, NY",Porsche,Cayenne,35858,AWD,2019,"3.0L V-6 Gas Turbocharged",0,0,1,0,0,0,0,61995.0
+Unknown,"Bordeaux Red","Edison, NJ",Porsche,911,8450,"Carrera 4S",2017,"3.0L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,109900.0
+"Night Blue Metallic","Saddle Brown","New York, NY",Porsche,Panamera,23134,GTS,2016,"4.8L V-8 Gas",0,1,1,0,0,0,0,69995.0
+"Night Blue Metallic","Black/Garnet Red","New York, NY",Porsche,Macan,16340,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,45995.0
+"Carrara White Metallic","Black/Luxor Beige","New York, NY",Porsche,Panamera,40931,"4S AWD",2018,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,80995.0
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,6492,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68500.0
+White,Black,"Parsippany, NJ",Porsche,Cayenne,48411,"S E-Hybrid Platinum Edition AWD",2017,"3.0L V-6 Plug-In Hybrid Supercharged",1,3,1,0,0,0,0,42495.0
+Gy,Black,"New York, NY",Porsche,Cayenne,6646,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+Tan,Black,"Jamaica, NY",Porsche,Macan,32221,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,61930.0
+"Carrara White Metallic","Black/Garnet Red","New York, NY",Porsche,Cayenne,26159,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,49500.0
+Gray,Brown,"Medford, NY",Porsche,Macan,28066,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42990.0
+Black,"Luxor Beige","Woodbridge, NJ",Porsche,Panamera,39007,4,2016,"3.6L V-6 Gas",0,3,1,0,0,0,0,42995.0
+"Night Blue Metallic",Black,"New York, NY",Porsche,Macan,11172,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,48990.0
+"Arctic Silver Metallic",Gray,"Medford, NY",Porsche,Boxster,49954,Roadster,2009,"2.9L Flat-6 Gas",0,4,1,0,0,0,0,25990.0
+Bk,Black,"New York, NY",Porsche,Macan,2136,"S AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+"Volcano Grey Metallic","Agate Grey/Pebble Grey","Huntington Station, NY",Porsche,Macan,38898,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42900.0
+"Gt Silver Metallic",Black,"New York, NY",Porsche,911,8321,"Carrera GTS",2019,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,130500.0
+Unknown,Unknown,"Ocean, NJ",Porsche,Macan,45718,"S AWD",2018,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,41905.0
+"Moonlight Blue Metallic",Black,"Hasbrouck Heights, NJ",Porsche,Cayenne,4357,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,66498.0
+Black,Black,"Medford, NY",Porsche,Cayenne,20337,AWD,2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,47590.0
+Brown,"Black/Luxor Beige","Huntington Station, NY",Porsche,Cayenne,29807,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52900.0
+"Cobalt Blue Metallic",Black,"Farmingdale, NY",Porsche,911,12309,Turbo,2007,"3.6L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,88500.0
+"Racing Yellow","Black W/Red Stitching","Great Neck, NY",Porsche,"718 Cayman",66,"GT4 Coupe",2021,"4.0L Flat-6 Gas",0,0,1,0,0,0,0,NULL
+"Rhodium Silver Metallic",Black,"New York, NY",Porsche,Cayenne,9387,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67450.0
+Unknown,Black,"Edison, NJ",Porsche,Macan,4461,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,51900.0
+"Meteor Grey Metallic",Black,"Huntington Station, NY",Porsche,Cayenne,23478,AWD,2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,48900.0
+White,Black,"New York, NY",Porsche,911,7,"Carrera 4S Coupe",2019,"3.0L Flat-6 Gas Turbocharged",0,0,1,0,0,0,0,129995.0
+Black,Black,"Huntington Station, NY",Porsche,"718 Boxster",9075,"S Roadster",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,68000.0
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Panamera,16928,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,76995.0
+"Carrara White Metallic",Black,"Lodi, NJ",Porsche,911,41591,"Carrera S",2017,"3.0L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,82895.0
+"Jet Black Metallic",Black,"Larchmont, NY",Porsche,Panamera,23882,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,73992.0
+"Rhodium Silver Metallic",Black,"Larchmont, NY",Porsche,Macan,27902,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40991.0
+Charcoal,Black,"Manasquan, NJ",Porsche,911,19065,"Turbo Cabriolet",2008,"3.6L Flat-6 Gas Turbocharged",0,3,1,0,0,0,0,88900.0
+"Jet Black Metallic",Black,"South Amboy, NJ",Porsche,Cayenne,28482,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,49990.0
+"Volcano Grey Metallic","Black/Garnet Red","Larchmont, NY",Porsche,Macan,27100,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65996.0
+"Biscay Blue Metallic","Slate Gray/Mojave Beige","Larchmont, NY",Porsche,Cayenne,7468,"S AWD",2019,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,83995.0
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Macan,7755,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,52995.0
+"Jet Black Metallic","Bordeaux Red","Larchmont, NY",Porsche,"718 Cayman",11962,Coupe,2019,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,62995.0
+White,"Luxor Beige","Bay Shore, NY",Porsche,Panamera,41450,4,2015,"3.6L V-6 Gas",1,3,1,0,0,0,0,40988.0
+Black,Red,"Elmont, NY",Porsche,Cayenne,38699,"Platinum Edition AWD",2017,"3.6L V-6 Gas",2,1,1,0,0,0,0,45950.0
+"Agate Grey Metallic","Saddle Brown","Larchmont, NY",Porsche,Macan,33936,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,63995.0
+"Platinum Silver Metallic","Carrera Red","Westerly, RI",Porsche,911,19055,"Carrera S Cabriolet",2013,"3.8L Flat-6 Gas",1,4,1,0,0,0,0,76022.0
+"Agate Gray Metallic","Luxor Beige","Medford, NY",Porsche,Macan,75358,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,30990.0
+"Guards Red",Black,"Brooklyn, NY",Porsche,911,12826,GT3,2018,"4.0L Flat-6 Gas",0,1,1,0,0,0,0,180000.0
+"Dolomite Silver Metallic",Black,"Huntington Station, NY",Porsche,Taycan,27,Turbo,2020,"L - Electric",0,1,1,0,0,0,0,185000.0
+"Jet Black Metallic",Black,"Hillside, NJ",Porsche,Panamera,32064,"4 E-Hybrid AWD",2018,"2.9L V-6 Plug-In Hybrid Turbocharged",1,1,1,0,0,0,0,NULL
+Black,Brown,"Medford, NY",Porsche,Macan,42835,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,61990.0
+"Guards Red",Black,"New York, NY",Porsche,911,1037,GT3,2018,"4.0L Flat-6 Gas",0,1,1,0,0,0,0,188500.0
+"Guards Red",Black,"Medford, NY",Porsche,Boxster,37250,Roadster,2011,"2.9L Flat-6 Gas",0,3,1,0,0,0,0,30990.0
+Gy,"Black/Luxor Beige","New York, NY",Porsche,Macan,29723,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995.0
+Black,Black,"Medford, NY",Porsche,Cayenne,30896,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47590.0
+Chalk,"Bordeaux Red","New York, NY",Porsche,911,18196,"Turbo Cabriolet",2019,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,168800.0
+"Night Blue Metallic",Black,"Larchmont, NY",Porsche,Panamera,33012,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,68198.0
+"Volcano Grey Metallic",Black,"Huntington Station, NY",Porsche,Macan,40500,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,44900.0
+Gy,Black,"New York, NY",Porsche,Cayenne,8285,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,71995.0
+Unknown,"Black/Luxor Beige","Edison, NJ",Porsche,Macan,28155,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,44900.0
+Black,Unknown,"Bay Shore, NY",Porsche,Panamera,21902,"Turbo S E-Hybrid AWD",2018,"4.0L V-8 Plug-In Hybrid Turbocharged",0,1,1,0,0,0,0,133899.0
+"Jet Black Metallic","Black/Garnet Red","Spring Valley, NY",Porsche,Cayenne,14950,"Turbo AWD",2018,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,88950.0
+"Custom Color","Saddle Brown","Elizabeth, NJ",Porsche,Macan,37189,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,38905.0
+Gray,Black,"New York, NY",Porsche,Cayenne,8926,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,69995.0
+"Rhodium Silver Metallic",Black,"Medford, NY",Porsche,Cayenne,60085,"Diesel AWD",2015,"3.0L V-6 Diesel Turbocharged",0,2,1,0,0,0,0,37590.0
+"Topaz Brown Metallic",Unknown,"Brooklyn, NY",Porsche,Panamera,96122,S,2010,"4.8L V-8 Gas",1,3,1,0,0,0,0,NULL
+"Volcano Gray",Biege,"Jackson Heights, NY",Porsche,Macan,34667,"Turbo AWD with Performance Package",2017,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,56488.0
+Silver,Black,"Medford, NY",Porsche,Cayenne,35649,"Tiptronic AWD",2011,"3.6L V-6 Gas",0,4,1,0,0,0,0,23990.0
+Black,Unknown,"Verona, NJ",Porsche,Panamera,102185,"Platinum Edition",2013,"3.6L V-6 Gas",0,4,1,0,0,0,0,27500.0
+"Volcano Grey Metallic",Black,"Huntington Station, NY",Porsche,Macan,32992,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,38900.0
+Gray,Black,"Medford, NY",Porsche,"718 Boxster",5717,"S Roadster",2018,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,68990.0
+White,Black,"New York, NY",Porsche,Macan,27364,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40995.0
+"Mahogany Metallic",Unknown,"Verona, NJ",Porsche,Cayenne,11130,"Turbo AWD",2019,"4.0L V-8 Gas Turbocharged",1,2,1,0,0,0,0,106950.0
+"Gt Silver Metallic",Black,"Massapequa, NY",Porsche,Boxster,43441,S,2005,"3.2L Flat-6 Gas",1,9,1,0,0,0,0,25985.0
+"Mahogany Metallic",Black,"Verona, NJ",Porsche,Cayenne,17811,AWD,2019,"3.0L V-6 Gas Turbocharged",2,1,1,0,0,0,0,58500.0
+White,Red,"Staten Island, NY",Porsche,911,37935,"Turbo S",2015,"3.8L Flat-6 Gas Turbocharged",0,3,0,0,0,0,1,119999.0
+White,Black,"East Hartford, CT",Porsche,Macan,7026,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,53631.0
+Black,Black,"Spring Valley, NY",Porsche,Macan,75261,AWD,2017,"2.0L Inline-4 Gas Turbocharged",1,2,1,0,0,0,0,28999.0
+Black,Unknown,"Ramsey, NJ",Porsche,Macan,52356,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,NULL
+Black,"Black/Luxor Beige","Larchmont, NY",Porsche,Macan,14762,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42498.0
+Black,Unknown,"Verona, NJ",Porsche,Cayenne,92876,"S AWD",2011,"4.8L V-8 Gas",1,2,1,0,0,0,0,19777.0
+Black,Black,"Medford, NY",Porsche,Cayenne,32149,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50990.0
+White,Unknown,"Madison, NJ",Porsche,Macan,42162,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40123.0
+Unknown,Unknown,"Elmont, NY",Porsche,Panamera,55584,Hatchback,2013,"3.6L V-6 Gas",0,0,1,0,0,0,0,36950.0
+"Volcano Gray Metallic",Black,"Larchmont, NY",Porsche,Macan,39728,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,67092.0
+"Carbon Steel Gray Metallic Pts",Black,"Spring Valley, NY",Porsche,911,7788,"GT2 RS",2018,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,340995.0
+"Mahogany Metallic",Black,"Jamaica, NY",Porsche,Cayenne,20956,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,66130.0
+"Guards Red",Black,"Manasquan, NJ",Porsche,"718 Cayman",18081,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,56700.0
+"Night Blue Metallic","Agate Grey","New York, NY",Porsche,Macan,20442,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,46995.0
+Gy,Black,"New York, NY",Porsche,Panamera,13632,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,77995.0
+Black,Black,"East Hartford, CT",Porsche,Macan,36951,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,37984.0
+"Moonlight Blue Metallic",Black,"Elmsford, NY",Porsche,Cayenne,26481,AWD,2019,"3.0L V-6 Gas Turbocharged",1,0,1,0,0,0,0,59995.0
+"Meteor Gray Metallic","Luxor Beige","Union City, NJ",Porsche,Cayenne,54677,"S Hybrid AWD",2012,"3.0L V-6 Hybrid Supercharged",1,1,1,0,0,0,0,22995.0
+Bk,Black,"New York, NY",Porsche,Macan,28674,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40995.0
+White,Unknown,"Verona, NJ",Porsche,Cayenne,71069,"Diesel AWD",2015,"3.0L V-6 Diesel Turbocharged",0,2,1,0,0,0,0,35000.0
+Unknown,Black,"Edison, NJ",Porsche,Macan,16938,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,68490.0
+"Yachting Blue Metallic","Yachting Blue/Cream","Elizabeth, NJ",Porsche,Panamera,96097,S,2010,"4.8L V-8 Gas",1,3,1,0,0,0,0,24985.0
+Black,Unknown,"Verona, NJ",Porsche,Cayenne,30038,"Platinum Edition AWD",2017,"3.6L V-6 Gas",1,2,1,0,0,0,0,45888.0
+White,Black,"New York, NY",Porsche,Macan,22494,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,59595.0
+Black,Black,"Jamaica, NY",Porsche,Cayenne,39281,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,43480.0
+Black,"Black/Luxor Beige","Larchmont, NY",Porsche,Panamera,37627,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,65492.0
+White,"Black/Garnet Red","North Plainfield, NJ",Porsche,Macan,29002,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,38900.0
+"Dark Blue Metallic","Luxor Beige","Point Pleasant, NJ",Porsche,Cayenne,105016,"Turbo AWD",2011,"4.8L V-8 Gas Turbocharged",0,3,1,0,0,0,0,27995.0
+"Carrara White Metallic",Black,"Brooklyn, NY",Porsche,Cayenne,27243,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,53995.0
+Black,Black,"Medford, NY",Porsche,Panamera,87753,Turbo,2011,"4.8L V-8 Gas Turbocharged",0,2,1,0,0,0,0,35990.0
+Gy,Black,"New York, NY",Porsche,Macan,13010,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995.0
+"Carrara White Metallic",Black,"New York, NY",Porsche,Macan,5221,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,52995.0
+"Carmine Red",Unknown,"Verona, NJ",Porsche,Macan,42727,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,47000.0
+"Rhodium Silver Metallic",Black,"Lodi, NJ",Porsche,Macan,69436,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,26895.0
+White,"Luxor Beige","Ramsey, NJ",Porsche,Panamera,35216,4,2015,"3.6L V-6 Gas",0,3,1,0,0,0,0,44498.0
+Black,Black,"New York, NY",Porsche,Cayenne,2226,"E-Hybrid AWD",2019,"3.0L V-6 Plug-In Hybrid Supercharged",0,0,1,0,0,0,0,87995.0
+White,Black,"Hillside, NJ",Porsche,Cayenne,42253,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,55555.0
+"Gt Silver Metallic",Black,"Medford, NY",Porsche,"718 Boxster",38131,Roadster,2018,"2.0L Flat-4 Gas Turbocharged",0,3,1,0,0,0,0,50590.0
+Unknown,Black,"Edison, NJ",Porsche,Panamera,20671,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,76900.0
+White,"Luxor Beige","New York, NY",Porsche,Cayenne,28935,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47995.0
+"Dark Blue Metallic","Black/Carmine Red","New York, NY",Porsche,911,271,"Carrera GTS",2016,"3.8L Flat-6 Gas",0,3,1,0,0,0,0,180800.0
+"Rhodium Silver Metallic",Black,"Red Bank, NJ",Porsche,Macan,26828,"GTS AWD",2017,"3.0L V-6 Gas Turbocharged",0,2,0,0,0,0,1,51995.0
+Black,Other,"Medford, NY",Porsche,Macan,41612,"Sport Edition AWD",2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,40990.0
+Blue,Black,"Medford, NY",Porsche,Cayenne,46312,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,47590.0
+"Jet Black Metallic",Black,"Larchmont, NY",Porsche,Cayenne,23197,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,49995.0
+White,Black,"Rockville Centre, NY",Porsche,Cayenne,37914,"Tiptronic AWD",2014,"3.6L V-6 Gas",1,3,1,0,0,0,0,30000.0
+"Volcano Grey Metallic",Black,"New York, NY",Porsche,Macan,40324,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,46995.0
+Black,Red,"Staten Island, NY",Porsche,911,46045,"Turbo S",2014,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,114999.0
+"Carrara White Metallic",Black,"New York, NY",Porsche,Cayenne,34879,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,47450.0
+"Graphite Blue Metallic",Gray,"Great Neck, NY",Porsche,"718 Cayman",9331,Coupe,2018,"2.0L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,59900.0
+"Carmine Red",Black,"East Hartford, CT",Porsche,911,12171,"Targa 4S",2017,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,127059.0
+White,Black,"Paterson, NJ",Porsche,Cayenne,143471,"S AWD",2012,"4.8L V-8 Gas",1,2,1,0,0,0,0,18495.0
+White,Black,"Elmont, NY",Porsche,Cayenne,26361,"Tiptronic AWD",2013,"3.6L V-6 Gas",1,2,1,0,0,0,0,29950.0
+"Dolomite Silver Metallic",Black,"New York, NY",Porsche,Cayenne,10243,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,70995.0
+White,Black,"Rahway, NJ",Porsche,Cayenne,59657,"GTS AWD",2014,"4.8L V-8 Gas",1,2,1,0,0,0,0,37900.0
+White,Black,"New York, NY",Porsche,Panamera,20,"4 E-Hybrid AWD",2019,"2.9L V-6 Plug-In Hybrid Turbocharged",0,0,1,0,0,0,0,114995.0
+White,Black,"Medford, NY",Porsche,Macan,13082,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,50990.0
+White,Black,"Medford, NY",Porsche,Macan,13082,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,50990.0
+"Volcano Grey Metallic",Black,"Wall Township, NJ",Porsche,Macan,11579,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,0,0,1,0,0,38995.0
+"Rhodium Silver Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Cayenne,37900,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,48999.0
+Black,Black,"Wall Township, NJ",Porsche,Macan,13466,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,1,0,0,0,39995.0
+Black,Brown,"South Hackensack, NJ",Porsche,Cayenne,104114,"GTS AWD",2014,"4.8L V-8 Gas",1,2,1,0,0,0,0,29995.0
+Silver,Black,"Medford, NY",Porsche,Cayenne,60248,"Tiptronic AWD",2013,"3.6L V-6 Gas",0,3,1,0,0,0,0,25990.0
+Black,Black,"Hillside, NJ",Porsche,Panamera,43602,"4S AWD",2017,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,62777.0
+Silver,Black,"Medford, NY",Porsche,Panamera,25659,Hatchback,2012,"3.6L V-6 Gas",0,2,1,0,0,0,0,37990.0
+Black,Black,"East Hartford, CT",Porsche,Macan,7220,AWD,2020,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,55058.0
+Purple,Beige,"Medford, NY",Porsche,Cayenne,67829,"Tiptronic AWD",2011,"3.6L V-6 Gas",0,2,1,0,0,0,0,21590.0
+Gray,Black,"Medford, NY",Porsche,Boxster,31536,Roadster,2016,"2.7L Flat-6 Gas",0,1,1,0,0,0,0,44990.0
+Black,Tan,"Woodbridge, NJ",Porsche,Macan,20131,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,44995.0
+Sl,"Agate Grey","New York, NY",Porsche,Macan,37297,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995.0
+"Agate Grey Metallic",Black,"New York, NY",Porsche,Macan,24153,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,45995.0
+Yw,Black,"New York, NY",Porsche,"718 Boxster",6087,"S Roadster",2019,"2.5L Flat-4 Gas Turbocharged",0,1,1,0,0,0,0,77995.0
+Bk,Black,"New York, NY",Porsche,Cayenne,8741,"SUV AWD",2020,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,72995.0
+Black,Black,"Red Bank, NJ",Porsche,Cayenne,59724,"Platinum Edition AWD",2018,"3.6L V-6 Gas",0,1,1,0,0,0,0,42995.0
+"Volcano Grey Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Macan,59867,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,44500.0
+"Volcano Gray Metallic",Black,"Watchung, NJ",Porsche,Macan,25344,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,42899.0
+"Night Blue Metallic",Black,"New York, NY",Porsche,Macan,35592,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,50995.0
+"Gt Silver Metallic","Agate Gray/Cream","Englewood, NJ",Porsche,Panamera,40453,Turbo,2014,"4.8L V-8 Gas Turbocharged",0,4,1,0,0,0,0,57990.0
+Black,Black,"Floral Park, NY",Porsche,911,10495,Turbo,2019,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,179000.0
+Black,Black,"Farmingdale, NY",Porsche,911,18128,"Carrera Manual",1997,"3.6L Flat-6 Gas",0,4,1,0,0,0,0,89900.0
+Unknown,"Agate Grey","Edison, NJ",Porsche,Macan,25833,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,43900.0
+Black,Black,"Milford, CT",Porsche,911,16297,"Carrera S 991",2012,"3.8L Flat-6 Gas",0,0,1,0,0,0,0,71378.0
+Brown,"Natural Brown","Wallingford, CT",Porsche,911,61545,"Turbo Cabriolet",2008,"3.6L Flat-6 Gas Turbocharged",0,2,0,0,0,1,0,54900.0
+"Meteor Gray Metallic",Black,"Red Bank, NJ",Porsche,Cayenne,75366,"Diesel AWD",2015,"3.0L V-6 Diesel Turbocharged",0,3,1,0,0,0,0,35995.0
+Black,Black,"Watchung, NJ",Porsche,Macan,11974,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,50498.0
+Unknown,Black,"Edison, NJ",Porsche,Macan,27053,AWD,2018,"2.0L Inline-4 Gas Turbocharged",0,2,1,0,0,0,0,46900.0
+White,Umber/Cream,"Hillside, NJ",Porsche,Cayenne,99156,"S Hybrid AWD",2013,"3.0L V-6 Hybrid Supercharged",0,4,1,0,0,0,0,21222.0
+White,Umber/Cream,"Hillside, NJ",Porsche,Cayenne,99156,"S Hybrid AWD",2013,"3.0L V-6 Hybrid Supercharged",0,4,1,0,0,0,0,21222.0
+White,Tan,"Westbury, NY",Porsche,Panamera,54272,S,2016,"3.0L V-6 Gas Turbocharged",0,3,1,0,0,0,0,45995.0
+Black,Unknown,"Verona, NJ",Porsche,Cayenne,101379,"Turbo AWD",2014,"4.8L V-8 Gas Turbocharged",0,2,1,0,0,0,0,36950.0
+White,Black,"Rahway, NJ",Porsche,Cayenne,90389,"Diesel AWD",2013,"3.0L V-6 Diesel Turbocharged",2,2,1,0,0,0,0,24900.0
+White,Black,"Staten Island, NY",Porsche,911,20522,"Turbo S",2017,"3.8L Flat-6 Gas Turbocharged",0,4,1,0,0,0,0,159999.0
+Br,"Truffle Brown","New York, NY",Porsche,Cayenne,30880,"Turbo AWD",2019,"4.0L V-8 Gas Turbocharged",0,1,1,0,0,0,0,109995.0
+Gray,Black,"Hillside, NJ",Porsche,Cayenne,85018,"Turbo AWD",2013,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,35900.0
+White,Black,"Bronx, NY",Porsche,Macan,60231,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,4,1,0,0,0,0,36995.0
+"Agate Gray Metallic",Black,"Lodi, NJ",Porsche,911,35822,Carrera,2014,"3.4L Flat-6 Gas",1,3,1,0,0,0,0,61895.0
+Black,Black,"Mountain Lakes, NJ",Porsche,Cayenne,104070,"Tiptronic AWD",2012,"3.6L V-6 Gas",0,2,1,0,0,0,0,15984.0
+Unknown,Black,"Edison, NJ",Porsche,Cayenne,39123,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,3,1,0,0,0,0,49900.0
+Bk,Black,"New York, NY",Porsche,911,29761,"Carrera 4 Cabriolet",2017,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,96995.0
+"Meteor Grey Metallic",Black,"Secaucus, NJ",Porsche,Cayenne,51200,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,43686.0
+"Carrara White Metallic",Black,"Bronx, NY",Porsche,Cayenne,59056,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,2,1,0,0,0,0,39995.0
+"Moonlight Blue Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Cayenne,46661,AWD,2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,47815.0
+Black,Tan,"Red Bank, NJ",Porsche,Panamera,31048,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",1,2,1,0,0,0,0,64995.0
+"Sapphire Blue Metallic","Black/Luxor Beige","Hillside, NJ",Porsche,Panamera,52441,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,57894.0
+"Night Blue Metallic","Black/Luxor Beige","East Hartford, CT",Porsche,Macan,49340,"Turbo AWD",2018,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,64405.0
+Unknown,Unknown,"New York, NY",Porsche,Cayenne,4969,"S SUV AWD",2020,"2.9L V-6 Gas Turbocharged",0,0,1,0,0,0,0,98860.0
+Gy,Black,"New York, NY",Porsche,Cayenne,37430,AWD,2017,"3.6L V-6 Gas",0,1,1,0,0,0,0,46995.0
+Gray,Red,"Staten Island, NY",Porsche,911,9572,Carrera,2017,"3.0L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,94999.0
+Black,"Black/Luxor Beige","New York, NY",Porsche,Macan,29216,"S AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,53995.0
+White,"Luxor Beige","Hillside, NJ",Porsche,Panamera,83277,4,2016,"3.6L V-6 Gas",0,2,1,0,0,0,0,37777.0
+Black,Black,"Huntington, NY",Porsche,911,113467,"Carrera Cabriolet 991",2012,"3.6L Flat-6 Gas",0,3,1,0,0,0,0,49995.0
+White,"Luxor Beige","South Amboy, NJ",Porsche,Panamera,29651,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",1,1,1,0,0,0,0,60980.0
+"Moonlight Blue Metallic","Truffle Brown","New York, NY",Porsche,Cayenne,4274,"S SUV AWD",2020,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,96995.0
+Black,Black,"New York, NY",Porsche,Macan,25601,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,40995.0
+"Night Blue Meta",Tan,"Wallingford, CT",Porsche,Panamera,19000,"4 AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,0,0,0,1,1,63900.0
+"Dark Blue Metallic",Cognac/Cedar,"Union, NJ",Porsche,Panamera,63615,Hatchback,2012,"3.6L V-6 Gas",0,3,1,0,0,0,0,30999.0
+Chalk,"Bordeaux Red","New York, NY",Porsche,911,12130,"Carrera 4 GTS Cabriolet",2019,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,139995.0
+"Miami Blue",Black,"East Hartford, CT",Porsche,Macan,3560,AWD,2019,"2.0L Inline-4 Gas Turbocharged",0,0,1,0,0,0,0,55399.0
+Black,"Black/Garnet Red","Jamaica, NY",Porsche,Macan,48277,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,35680.0
+"Jet Black Metallic",Black,"East Hartford, CT",Porsche,Cayenne,32947,AWD,2019,"3.0L V-6 Gas Turbocharged",0,1,0,0,0,0,1,66581.0
+Black,Espresso/Cognac,"New York, NY",Porsche,911,40537,"Turbo S",2015,"3.8L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,123995.0
+"Carrara White Metallic","Luxor Beige","Elmwood Park, NJ",Porsche,Panamera,52604,"4 AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,58990.0
+Black,Beige,"Medford, NY",Porsche,Cayenne,53569,"Tiptronic AWD",2014,"3.6L V-6 Gas",0,1,1,0,0,0,0,29590.0
+Black,Black,"Yonkers, NY",Porsche,911,8904,"Carrera S Coupe",2020,"3.0L Flat-6 Gas Turbocharged",0,1,1,0,0,0,0,155000.0
+White,Brown,"Jamaica, NY",Porsche,Macan,31763,"S AWD",2015,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,37790.0
+White,Black,"Jamaica, NY",Porsche,Panamera,34451,Edition,2016,"3.6L V-6 Gas",0,2,1,0,0,0,0,45980.0
+Black,Black,"Lodi, NJ",Porsche,Cayenne,101288,"Tiptronic AWD",2013,"3.6L V-6 Gas",1,2,1,0,0,0,0,16895.0
+"Gt Silver Metallic",Black,"East Hartford, CT",Porsche,Panamera,25449,"4S AWD",2017,"2.9L V-6 Gas Turbocharged",0,1,1,0,0,0,0,82453.0
+Gray,Tan,"Mahwah, NJ",Porsche,911,19500,"Carrera S Cabriolet",2013,"3.8L Flat-6 Gas",0,2,1,0,0,0,0,84997.0
+"Carrara White",Black,"Red Bank, NJ",Porsche,911,41859,"Turbo S Cabriolet",2013,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,95995.0
+Black,Black,"Wallingford, CT",Porsche,Macan,37105,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,0,0,0,1,1,33900.0
+Black,Black,"Wall Township, NJ",Porsche,Cayenne,20251,"Platinum Edition AWD",2017,"3.6L V-6 Gas",0,1,1,1,0,0,0,44995.0
+Black,Black,"Rahway, NJ",Porsche,Macan,59937,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,3,1,0,0,0,0,35900.0
+"Basalt Black Metallic","Luxor Beige","Lodi, NJ",Porsche,Panamera,72353,4,2012,"3.6L V-6 Gas",1,2,1,0,0,0,0,31895.0
+Black,Black,"Mountain Lakes, NJ",Porsche,911,66898,"Carrera Cabriolet",2013,"3.4L Flat-6 Gas",0,2,1,0,0,0,0,51477.0
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,Macan,62216,"S AWD",2016,"3.0L V-6 Gas Turbocharged",0,2,1,0,0,0,0,33799.0
+"Basalt Black Metallic",Black,"Wantagh, NY",Porsche,Panamera,10990,Turbo,2012,"4.8L V-8 Gas Turbocharged",0,1,1,0,0,0,0,64995.0
+"Dark Blue Metallic",Black,"Lodi, NJ",Porsche,Macan,57702,"Turbo AWD",2016,"3.6L V-6 Gas Turbocharged",0,1,1,0,0,0,0,40895.0
+"Night Blue Metallic",Burgundy,"Springfield Township, NJ",Porsche,Macan,60547,"S AWD",2017,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,39933.0
+Black,Black,"Lodi, NJ",Porsche,Cayenne,78580,"Tiptronic AWD",2014,"3.6L V-6 Gas",0,1,1,0,0,0,0,23895.0
+Bronze,Beige,"Garfield, NJ",Porsche,Cayenne,81748,"Tiptronic AWD",2013,"3.6L V-6 Gas",0,2,1,0,0,0,0,21995.0
+Black,Black,"Brooklyn, NY",Porsche,Cayenne,101605,"Tiptronic AWD",2008,"3.6L V-6 Gas",1,2,1,0,0,0,0,12450.0
+"Rhodium Silver Metallic",Black,"Jamaica, NY",Porsche,Cayenne,42723,AWD,2016,"3.6L V-6 Gas",0,2,1,0,0,0,0,37370.0
+Blue,Tan,"Brooklyn, NY",Porsche,Cayenne,129237,"Tiptronic AWD",2011,"3.6L V-6 Gas",1,3,1,0,0,0,0,15950.0
+Yw,Black,"New York, NY",Porsche,911,561,"Turbo S",2018,"3.8L Flat-6 Gas Turbocharged",0,2,1,0,0,0,0,289500.0
+Blue,Black,"Bergenfield, NJ",Porsche,Panamera,70051,4,2011,"3.6L V-6 Gas",0,1,1,0,0,0,0,34995.0
+"Aqua Blue Metallic","Agate Grey","Jersey City, NJ",Porsche,Boxster,97573,Roadster,2013,"2.7L Flat-6 Gas",0,1,1,0,0,0,0,28980.0
+Silver,Black,"Parsippany, NJ",Porsche,911,75628,"Turbo S Cabriolet",2005,"3.6L Flat-6 Gas Turbocharged",2,4,1,0,0,0,0,48995.0
+"Jet Black Metallic",Black,"Hillside, NJ",Porsche,Cayenne,81755,"S Hybrid AWD",2014,"3.0L V-6 Hybrid Supercharged",1,2,1,0,0,0,0,27333.0
+"Sapphire Blue Metallic",Black,"Springfield Township, NJ",Porsche,Macan,51942,AWD,2017,"2.0L Inline-4 Gas Turbocharged",0,1,1,0,0,0,0,39333.0
+Black,Black,"East Hartford, CT",Porsche,Panamera,65404,Turbo,2013,"4.8L V-8 Gas Turbocharged",1,2,1,0,0,0,0,45250.0
+White,Black,"Butler, NJ",Porsche,911,36495,"Turbo S",2011,"3.8L Flat-6 Gas Turbocharged",0,5,1,0,0,0,0,99995.0
+Black,Black,"Mt. Kisco, NY",Porsche,Macan,34531,"GTS AWD",2018,"3.0L V-6 Gas Turbocharged",0,1,1,0,0,0,0,60981.0
